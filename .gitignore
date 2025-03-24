@@ -1,0 +1,43 @@
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+_pycache_
+
+# Virtual Environment
+env/
+venv/
+ENV/
+VENV/
+
+# Environment Variables
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.cache
+*.cover
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.DS_Store
+*.egg-info/
+*.egg
+*.log
+*.tmp
+*.bak
+*.swp
+
+mlagent/.files/
+mlagent/files_and_models/

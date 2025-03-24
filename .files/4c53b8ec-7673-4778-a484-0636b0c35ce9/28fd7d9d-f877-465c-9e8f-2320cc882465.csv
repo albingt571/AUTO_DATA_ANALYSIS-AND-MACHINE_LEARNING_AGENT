@@ -1,0 +1,1341 @@
+CASENUM,ATTORNEY,CLMSEX,CLMINSUR,SEATBELT,CLMAGE,LOSS,Accident_Severity,Claim_Amount_Requested,Claim_Approval_Status,Settlement_Amount,Policy_Type,Driving_Record
+5,0,0.0,1.0,0.0,50.0,2367.86,Severe,4497.19,1,3221.74,Third-Party,Clean
+3,1,1.0,0.0,0.0,18.0,3746.41,Minor,6216.38,1,6166.17,Comprehensive,Clean
+66,1,0.0,1.0,0.0,5.0,14282.43,Severe,17978.55,0,13804.61,Comprehensive,Minor Offenses
+70,0,0.0,1.0,1.0,31.0,519.12,Severe,753.54,1,596.25,Comprehensive,Clean
+96,1,0.0,1.0,0.0,30.0,1354.31,Minor,2167.42,0,1714.83,Comprehensive,Clean
+97,0,1.0,1.0,0.0,35.0,2504.4,Minor,4553.78,0,3502.43,Third-Party,Minor Offenses
+10,0,0.0,1.0,0.0,9.0,809.68,Severe,1017.38,0,712.62,Third-Party,Clean
+36,0,1.0,1.0,0.0,34.0,3013.37,Moderate,4037.99,1,3710.12,Comprehensive,Clean
+51,1,1.0,1.0,0.0,60.0,6936.94,Severe,11869.31,0,11751.25,Comprehensive,Major Offenses
+55,1,0.0,1.0,0.0,,4542.14,Severe,8717.78,1,6689.05,Comprehensive,Minor Offenses
+61,0,1.0,1.0,0.0,37.0,9257.75,Severe,17907.1,0,16096.95,Third-Party,Major Offenses
+148,0,0.0,1.0,0.0,41.0,8813.79,Severe,16440.15,1,15167.17,Comprehensive,Major Offenses
+150,1,0.0,1.0,0.0,7.0,4831.16,Minor,7165.44,1,6839.61,Third-Party,Major Offenses
+150,0,1.0,1.0,0.0,40.0,4328.21,Severe,5558.76,1,4595.92,Comprehensive,Clean
+169,1,1.0,1.0,0.0,37.0,5129.88,Moderate,7904.0,0,6251.11,Comprehensive,Clean
+171,1,1.0,0.0,0.0,9.0,9042.7,Minor,12010.75,0,9579.64,Comprehensive,Major Offenses
+334,1,1.0,1.0,0.0,58.0,3629.73,Moderate,5727.24,1,5233.47,Third-Party,Major Offenses
+360,0,0.0,1.0,0.0,58.0,9028.97,Moderate,12670.9,1,11974.43,Third-Party,Major Offenses
+376,1,0.0,1.0,0.0,3.0,6104.42,Moderate,8483.53,1,6400.69,Third-Party,Clean
+401,0,1.0,1.0,0.0,38.0,6220.37,Moderate,11264.92,0,9139.03,Comprehensive,Major Offenses
+479,0,0.0,,0.0,37.0,5478.0,Minor,9004.47,0,8739.58,Third-Party,Major Offenses
+480,1,1.0,1.0,0.0,39.0,4314.47,Minor,6242.08,0,5880.09,Third-Party,Minor Offenses
+550,0,0.0,0.0,0.0,38.0,9900.28,Moderate,18994.84,0,18908.56,Comprehensive,Minor Offenses
+569,0,0.0,,0.0,30.0,9364.42,Moderate,15390.31,1,14255.65,Comprehensive,Clean
+580,1,0.0,1.0,0.0,54.0,2134.68,Minor,3232.21,1,2643.81,Third-Party,Minor Offenses
+608,1,1.0,1.0,0.0,3.0,13928.36,Minor,17435.13,0,15293.95,Third-Party,Minor Offenses
+603,1,0.0,1.0,0.0,61.0,6426.75,Minor,10004.91,0,8987.45,Third-Party,Minor Offenses
+606,0,0.0,1.0,0.0,0.0,13364.83,Severe,17943.77,1,12982.98,Third-Party,Clean
+607,1,0.0,1.0,0.0,40.0,10135.11,Severe,16097.18,0,13897.49,Comprehensive,Minor Offenses
+630,0,0.0,1.0,0.0,,6496.31,Severe,8791.66,0,8024.99,Comprehensive,Clean
+640,1,1.0,1.0,0.0,16.0,636.65,Moderate,938.15,0,703.8,Comprehensive,Major Offenses
+640,1,0.0,1.0,0.0,,4396.11,Severe,5739.21,0,5361.51,Third-Party,Minor Offenses
+685,1,0.0,1.0,0.0,9.0,6894.67,Moderate,11061.87,0,9680.59,Third-Party,Clean
+700,0,1.0,1.0,0.0,35.0,8756.52,Moderate,12852.83,0,12668.6,Comprehensive,Minor Offenses
+710,0,1.0,1.0,0.0,35.0,3809.38,Severe,5528.81,1,3940.53,Comprehensive,Major Offenses
+766,0,1.0,1.0,0.0,17.0,2011.59,Moderate,3217.44,0,2508.31,Third-Party,Clean
+775,0,1.0,0.0,0.0,41.0,9117.09,Severe,16781.14,0,14775.23,Third-Party,Clean
+805,0,1.0,1.0,0.0,50.0,10400.74,Severe,19695.84,1,15539.39,Comprehensive,Clean
+819,1,0.0,1.0,0.0,33.0,5429.25,Minor,10750.96,1,9829.9,Comprehensive,Major Offenses
+838,0,0.0,1.0,0.0,9.0,2932.22,Severe,3847.75,1,3569.56,Comprehensive,Major Offenses
+851,1,0.0,1.0,0.0,34.0,3317.17,Minor,5809.99,0,4245.68,Third-Party,Major Offenses
+871,0,1.0,0.0,0.0,33.0,483.79,Severe,858.62,1,733.4,Third-Party,Clean
+905,0,1.0,1.0,0.0,46.0,13211.62,Severe,18328.83,0,15628.39,Third-Party,Major Offenses
+941,1,1.0,1.0,0.0,55.0,1666.52,Minor,2796.15,0,2267.07,Third-Party,Minor Offenses
+971,1,0.0,1.0,0.0,5.0,7653.64,Minor,11742.07,0,11505.79,Third-Party,Major Offenses
+61,1,1.0,1.0,0.0,,3206.96,Severe,5844.08,1,5541.66,Third-Party,Clean
+63,0,0.0,0.0,0.0,16.0,8908.64,Moderate,11306.47,1,10279.42,Comprehensive,Minor Offenses
+78,1,0.0,1.0,0.0,1.0,9974.3,Minor,13202.7,1,12071.2,Comprehensive,Major Offenses
+91,0,0.0,1.0,0.0,,12662.38,Moderate,16679.97,1,13986.4,Third-Party,Minor Offenses
+0,0,0.0,1.0,0.0,40.0,2814.83,Moderate,4525.21,1,4417.96,Comprehensive,Minor Offenses
+4,0,1.0,1.0,0.0,19.0,520.6,Moderate,714.42,0,648.96,Third-Party,Clean
+54,1,0.0,1.0,0.0,54.0,1721.43,Minor,3169.27,0,2911.59,Comprehensive,Minor Offenses
+70,1,1.0,1.0,0.0,,9071.85,Moderate,18050.36,0,17301.4,Third-Party,Minor Offenses
+86,1,1.0,1.0,0.0,,8875.53,Minor,17540.86,0,13720.84,Comprehensive,Clean
+178,0,1.0,1.0,0.0,60.0,8212.87,Moderate,12149.56,1,11446.36,Comprehensive,Clean
+195,0,0.0,1.0,0.0,30.0,7773.16,Severe,12210.08,1,9262.23,Third-Party,Clean
+301,1,1.0,1.0,0.0,,8827.13,Severe,13468.22,0,10823.1,Third-Party,Minor Offenses
+304,0,1.0,0.0,0.0,10.0,1968.65,Minor,3919.74,1,3138.47,Comprehensive,Minor Offenses
+335,1,1.0,1.0,0.0,44.0,11490.0,Severe,18331.03,1,18212.93,Comprehensive,Minor Offenses
+339,1,0.0,1.0,0.0,10.0,6199.86,Severe,8666.03,0,8293.05,Third-Party,Clean
+354,1,1.0,1.0,0.0,,5044.24,Moderate,7971.2,0,7256.59,Comprehensive,Major Offenses
+359,1,0.0,1.0,0.0,,7642.06,Minor,10618.9,1,9749.39,Third-Party,Minor Offenses
+366,0,0.0,,,35.0,806.9,Moderate,1415.84,1,1229.83,Third-Party,Major Offenses
+387,1,0.0,1.0,0.0,54.0,2784.23,Moderate,3742.53,0,3683.13,Comprehensive,Clean
+405,0,1.0,1.0,0.0,38.0,10074.65,Moderate,14891.66,0,12641.2,Third-Party,Minor Offenses
+445,1,1.0,1.0,0.0,60.0,1190.99,Moderate,2114.57,0,1721.59,Comprehensive,Major Offenses
+470,1,0.0,1.0,0.0,,7001.5,Moderate,12261.47,1,9182.74,Comprehensive,Minor Offenses
+505,1,0.0,1.0,0.0,30.0,3637.77,Moderate,5284.31,0,4945.38,Third-Party,Minor Offenses
+530,1,1.0,0.0,0.0,17.0,6060.21,Moderate,8091.26,0,7446.66,Comprehensive,Minor Offenses
+590,0,0.0,1.0,0.0,4.0,3829.05,Minor,6129.53,1,4997.45,Third-Party,Major Offenses
+607,0,0.0,1.0,0.0,56.0,4294.0,Severe,7435.62,1,5261.13,Third-Party,Clean
+608,0,0.0,1.0,0.0,63.0,11037.77,Moderate,14521.4,1,13820.0,Third-Party,Minor Offenses
+614,0,0.0,1.0,0.0,55.0,4410.62,Moderate,6293.87,1,4427.27,Comprehensive,Clean
+664,0,0.0,1.0,0.0,47.0,7324.37,Moderate,11544.89,1,10518.66,Third-Party,Clean
+670,1,0.0,1.0,0.0,0.0,6323.43,Moderate,9782.98,0,9695.69,Comprehensive,Major Offenses
+740,0,0.0,1.0,0.0,5.0,7544.45,Moderate,13441.59,0,11173.97,Third-Party,Major Offenses
+743,1,0.0,1.0,0.0,38.0,12913.27,Moderate,18768.18,1,14460.73,Third-Party,Clean
+780,1,1.0,1.0,0.0,,8983.8,Severe,14785.16,1,13476.1,Third-Party,Minor Offenses
+784,0,0.0,1.0,0.0,40.0,3746.94,Severe,4691.34,1,4433.97,Comprehensive,Major Offenses
+790,1,0.0,1.0,0.0,57.0,713.66,Moderate,1108.07,1,957.29,Comprehensive,Minor Offenses
+840,0,1.0,1.0,0.0,17.0,3625.43,Severe,5614.15,1,5558.63,Third-Party,Minor Offenses
+908,1,1.0,1.0,0.0,1.0,8106.73,Minor,12104.02,0,8660.43,Third-Party,Minor Offenses
+970,0,1.0,,0.0,,1164.71,Moderate,1502.8,0,1279.54,Comprehensive,Clean
+996,0,1.0,0.0,0.0,11.0,7535.06,Minor,10179.14,0,9319.37,Comprehensive,Minor Offenses
+1001,0,0.0,1.0,0.0,40.0,7712.02,Minor,12138.44,0,11638.24,Comprehensive,Clean
+1009,1,1.0,1.0,0.0,10.0,5021.98,Moderate,7017.76,1,5289.82,Third-Party,Clean
+1003,0,0.0,1.0,0.0,18.0,10498.16,Severe,15532.79,0,14600.84,Comprehensive,Minor Offenses
+1010,1,1.0,1.0,0.0,35.0,1670.23,Minor,2578.67,1,2232.64,Third-Party,Minor Offenses
+1013,0,1.0,1.0,0.0,11.0,1095.98,Moderate,1965.19,1,1609.42,Comprehensive,Minor Offenses
+1017,0,1.0,1.0,0.0,16.0,9395.75,Minor,14699.68,1,10870.63,Third-Party,Minor Offenses
+1018,1,1.0,1.0,0.0,,5830.45,Minor,10162.08,0,9751.42,Third-Party,Clean
+1054,0,1.0,1.0,0.0,0.0,10783.36,Minor,13923.85,1,10403.65,Third-Party,Minor Offenses
+1063,1,1.0,1.0,0.0,8.0,5393.06,Minor,8979.13,0,7119.88,Comprehensive,Minor Offenses
+1091,0,0.0,1.0,0.0,31.0,4167.9,Severe,5304.84,0,4174.98,Comprehensive,Clean
+1010,0,0.0,1.0,0.0,50.0,10870.48,Minor,16472.5,1,15837.06,Comprehensive,Major Offenses
+1011,1,1.0,1.0,0.0,71.0,11092.51,Minor,16088.61,1,14508.88,Third-Party,Major Offenses
+1013,1,1.0,1.0,0.0,,9311.23,Minor,14046.58,1,13189.8,Third-Party,Clean
+1054,0,0.0,1.0,0.0,1.0,3128.8,Severe,5806.83,0,4501.11,Comprehensive,Major Offenses
+1057,0,0.0,1.0,0.0,16.0,7358.78,Minor,12009.5,1,10657.98,Third-Party,Clean
+1059,1,0.0,1.0,0.0,9.0,3993.73,Minor,7538.99,0,6570.41,Third-Party,Minor Offenses
+1078,1,0.0,1.0,0.0,6.0,1570.12,Severe,2285.85,1,2171.21,Third-Party,Minor Offenses
+1156,1,1.0,1.0,0.0,43.0,11658.89,Severe,18387.61,1,17869.56,Comprehensive,Major Offenses
+1164,0,1.0,1.0,0.0,35.0,2323.37,Severe,3167.96,0,2229.13,Third-Party,Minor Offenses
+1189,0,1.0,1.0,0.0,,10773.46,Minor,19029.63,0,17168.65,Comprehensive,Major Offenses
+1309,1,0.0,1.0,0.0,7.0,5052.61,Severe,9197.11,0,6581.0,Comprehensive,Major Offenses
+1304,0,0.0,1.0,0.0,43.0,2556.06,Severe,4110.09,0,3553.82,Comprehensive,Minor Offenses
+1315,0,0.0,1.0,0.0,19.0,8609.91,Minor,11067.07,0,8701.92,Comprehensive,Minor Offenses
+1349,0,1.0,0.0,0.0,10.0,12495.72,Severe,17522.44,0,13878.35,Comprehensive,Major Offenses
+1388,1,1.0,1.0,0.0,31.0,9246.5,Minor,14778.39,1,11909.72,Third-Party,Minor Offenses
+1404,0,0.0,1.0,0.0,,10632.25,Moderate,16227.94,1,14384.25,Comprehensive,Clean
+1470,0,0.0,1.0,0.0,69.0,7010.32,Severe,13346.28,0,10679.89,Comprehensive,Minor Offenses
+1473,1,1.0,1.0,0.0,33.0,11134.73,Moderate,13999.39,1,12876.77,Comprehensive,Minor Offenses
+1491,0,1.0,0.0,0.0,40.0,11940.2,Minor,17059.32,0,14011.81,Third-Party,Clean
+1496,1,1.0,1.0,0.0,,3143.93,Severe,5368.53,1,3868.06,Third-Party,Minor Offenses
+1568,1,1.0,1.0,0.0,8.0,6787.02,Minor,10043.79,1,9392.23,Third-Party,Minor Offenses
+1589,0,0.0,1.0,0.0,,2564.89,Moderate,4813.58,0,3782.16,Third-Party,Major Offenses
+1599,1,1.0,1.0,0.0,,15605.11,Minor,19759.53,0,16397.05,Comprehensive,Minor Offenses
+1606,0,1.0,1.0,0.0,41.0,10446.09,Severe,18909.16,0,17124.76,Comprehensive,Minor Offenses
+1655,0,1.0,1.0,0.0,43.0,881.08,Severe,1268.82,1,1014.72,Third-Party,Clean
+1661,1,1.0,1.0,0.0,,8179.32,Moderate,14258.72,0,10223.16,Third-Party,Major Offenses
+1690,0,1.0,1.0,0.0,10.0,13262.75,Minor,18542.34,1,15059.65,Third-Party,Major Offenses
+1740,0,1.0,1.0,0.0,9.0,2947.74,Severe,4021.22,0,3954.2,Third-Party,Major Offenses
+1755,0,1.0,1.0,0.0,46.0,8125.9,Moderate,11574.93,1,10330.86,Comprehensive,Minor Offenses
+1758,0,1.0,1.0,0.0,7.0,12559.2,Severe,18352.02,1,16543.31,Third-Party,Major Offenses
+1838,0,1.0,1.0,0.0,30.0,892.08,Severe,1161.95,0,1033.77,Third-Party,Clean
+1846,1,1.0,1.0,0.0,43.0,7382.43,Minor,14099.7,1,10711.51,Third-Party,Major Offenses
+1879,1,0.0,1.0,0.0,,3774.42,Severe,6298.31,1,5199.26,Third-Party,Clean
+1896,0,0.0,1.0,0.0,33.0,10642.78,Minor,18525.73,0,17141.52,Third-Party,Major Offenses
+1939,1,0.0,1.0,0.0,54.0,15478.63,Severe,19435.64,1,14196.02,Third-Party,Major Offenses
+1958,1,0.0,1.0,,40.0,11665.98,Moderate,18913.2,0,14815.77,Third-Party,Clean
+1990,1,1.0,1.0,0.0,48.0,7015.86,Severe,9747.18,0,7631.03,Comprehensive,Major Offenses
+3067,1,1.0,1.0,0.0,50.0,12210.66,Minor,17309.83,0,14360.33,Comprehensive,Major Offenses
+3087,0,,,,,9563.98,Minor,16968.71,0,16868.77,Comprehensive,Major Offenses
+3093,0,1.0,1.0,0.0,,3843.23,Moderate,6722.46,1,4841.86,Comprehensive,Minor Offenses
+3047,0,1.0,1.0,0.0,31.0,9738.11,Severe,16663.85,1,14257.76,Comprehensive,Clean
+3151,1,0.0,1.0,0.0,1.0,761.5,Severe,1221.65,1,920.89,Comprehensive,Major Offenses
+3157,1,0.0,1.0,0.0,,6916.15,Moderate,12127.26,0,12020.58,Third-Party,Clean
+3190,0,0.0,1.0,1.0,0.0,2521.97,Severe,4985.17,1,3659.07,Third-Party,Clean
+3198,1,1.0,1.0,0.0,61.0,2177.68,Severe,2851.05,1,2340.94,Comprehensive,Clean
+3305,0,0.0,1.0,0.0,8.0,1579.83,Minor,2000.59,0,1843.27,Third-Party,Major Offenses
+3314,0,1.0,1.0,0.0,7.0,8481.37,Severe,14077.63,0,12829.88,Comprehensive,Major Offenses
+3337,1,1.0,1.0,0.0,37.0,4287.6,Severe,7127.56,1,5893.2,Third-Party,Clean
+3384,0,0.0,1.0,0.0,,7347.61,Moderate,14632.95,0,11764.27,Third-Party,Minor Offenses
+3443,0,0.0,1.0,0.0,4.0,1249.35,Moderate,1774.45,0,1453.78,Third-Party,Clean
+3446,0,0.0,1.0,0.0,75.0,4970.38,Minor,6648.16,0,5180.8,Third-Party,Minor Offenses
+3465,1,1.0,1.0,0.0,80.0,5994.73,Severe,11020.08,0,8392.89,Third-Party,Clean
+3500,1,0.0,1.0,0.0,33.0,8722.07,Severe,15919.1,1,13450.24,Third-Party,Clean
+3531,0,0.0,1.0,0.0,6.0,4949.62,Severe,6715.67,0,5241.98,Comprehensive,Clean
+3546,0,1.0,1.0,0.0,40.0,8701.41,Minor,12704.88,0,9989.07,Comprehensive,Major Offenses
+3561,1,1.0,1.0,0.0,10.0,9127.53,Minor,17776.57,0,15946.06,Third-Party,Minor Offenses
+3571,0,1.0,1.0,0.0,40.0,8590.96,Moderate,12509.33,0,12391.26,Comprehensive,Minor Offenses
+3580,0,1.0,1.0,0.0,,2988.69,Minor,5042.71,0,4443.09,Third-Party,Clean
+3605,1,1.0,1.0,0.0,6.0,595.85,Severe,975.82,0,705.61,Comprehensive,Major Offenses
+3667,0,0.0,1.0,0.0,66.0,12766.92,Severe,17466.93,0,12622.92,Third-Party,Major Offenses
+3668,0,1.0,1.0,0.0,41.0,679.92,Minor,914.75,0,901.42,Comprehensive,Minor Offenses
+3677,0,1.0,1.0,0.0,56.0,10887.02,Severe,17556.68,1,13855.51,Third-Party,Major Offenses
+3699,0,0.0,1.0,0.0,17.0,8479.97,Severe,10814.27,0,7868.68,Comprehensive,Minor Offenses
+3707,0,1.0,1.0,0.0,13.0,11699.8,Minor,18811.82,1,16549.01,Third-Party,Minor Offenses
+3763,0,0.0,,,0.0,11760.61,Minor,16076.27,0,14261.17,Comprehensive,Minor Offenses
+3791,1,0.0,0.0,0.0,51.0,12877.28,Severe,19959.72,0,17855.0,Third-Party,Major Offenses
+3800,1,0.0,0.0,0.0,33.0,5645.5,Severe,7338.88,0,5725.95,Third-Party,Minor Offenses
+3848,1,0.0,1.0,0.0,10.0,11940.33,Severe,15460.17,0,10892.2,Third-Party,Minor Offenses
+3874,1,1.0,1.0,0.0,,4387.48,Moderate,8337.65,1,8250.14,Comprehensive,Clean
+3901,0,1.0,1.0,0.0,18.0,7698.25,Moderate,9857.57,0,7642.26,Comprehensive,Minor Offenses
+3906,1,0.0,0.0,,39.0,9522.47,Moderate,12736.36,0,11498.49,Comprehensive,Minor Offenses
+3900,1,0.0,1.0,0.0,0.0,12931.44,Minor,17536.7,1,15993.28,Third-Party,Clean
+3905,1,0.0,1.0,0.0,46.0,11031.58,Moderate,19689.63,1,17385.99,Comprehensive,Clean
+3910,1,1.0,0.0,0.0,39.0,11479.96,Minor,15481.33,0,12290.2,Third-Party,Major Offenses
+3939,0,0.0,1.0,0.0,10.0,6528.41,Minor,8646.45,1,6755.72,Comprehensive,Minor Offenses
+3974,0,1.0,1.0,0.0,34.0,5114.34,Moderate,8716.46,1,7664.39,Comprehensive,Major Offenses
+3995,0,0.0,1.0,0.0,8.0,11693.13,Moderate,14882.85,1,14284.99,Comprehensive,Major Offenses
+4066,0,1.0,1.0,0.0,41.0,2655.2,Moderate,5156.15,0,5073.76,Comprehensive,Clean
+4083,0,1.0,1.0,0.0,7.0,1446.49,Severe,2654.25,0,1942.31,Third-Party,Major Offenses
+4000,0,1.0,1.0,0.0,18.0,4903.44,Moderate,7415.13,0,5535.01,Comprehensive,Minor Offenses
+4006,0,1.0,1.0,0.0,41.0,4104.48,Severe,6101.16,1,6000.01,Comprehensive,Clean
+4084,1,0.0,1.0,0.0,10.0,4354.08,Minor,6278.01,0,5781.8,Third-Party,Minor Offenses
+4088,1,1.0,1.0,0.0,1.0,2553.41,Severe,5055.35,1,4877.9,Third-Party,Minor Offenses
+4096,1,1.0,1.0,0.0,6.0,1040.95,Moderate,1320.82,0,1004.87,Comprehensive,Clean
+4101,1,1.0,1.0,0.0,4.0,435.62,Minor,848.54,0,743.56,Comprehensive,Minor Offenses
+4130,0,0.0,1.0,0.0,15.0,10728.39,Minor,19760.59,1,17988.89,Third-Party,Clean
+4137,1,0.0,0.0,0.0,8.0,4457.96,Minor,8841.58,0,7993.09,Third-Party,Minor Offenses
+4148,1,0.0,1.0,0.0,5.0,5356.69,Severe,7994.37,1,6574.93,Third-Party,Clean
+4196,1,0.0,1.0,0.0,0.0,10723.03,Moderate,13753.12,1,9690.7,Comprehensive,Major Offenses
+4409,0,1.0,1.0,0.0,,3328.14,Minor,4755.95,0,4160.88,Comprehensive,Minor Offenses
+4465,1,0.0,1.0,0.0,,14207.25,Minor,19024.24,1,14761.49,Comprehensive,Clean
+4490,0,1.0,1.0,0.0,40.0,7979.95,Minor,15833.73,0,13222.37,Third-Party,Minor Offenses
+4507,0,1.0,1.0,0.0,,1486.56,Severe,2243.51,0,2214.96,Third-Party,Minor Offenses
+4561,0,0.0,1.0,0.0,61.0,5512.99,Severe,8642.83,1,7084.62,Third-Party,Minor Offenses
+4593,0,0.0,,0.0,43.0,11462.36,Moderate,17642.81,0,16794.91,Comprehensive,Clean
+4681,1,1.0,0.0,0.0,65.0,9871.07,Severe,18922.27,1,14315.87,Third-Party,Major Offenses
+4684,1,1.0,1.0,0.0,14.0,6781.28,Minor,9614.33,0,8669.61,Comprehensive,Major Offenses
+4695,0,0.0,1.0,0.0,10.0,8112.03,Moderate,12461.52,0,12375.56,Third-Party,Major Offenses
+4707,1,1.0,1.0,0.0,6.0,2741.02,Minor,3757.16,0,2744.86,Comprehensive,Clean
+4708,1,1.0,1.0,0.0,49.0,12800.57,Minor,19827.79,0,13928.94,Comprehensive,Major Offenses
+4780,0,1.0,1.0,0.0,33.0,2733.66,Severe,5017.6,0,4164.98,Third-Party,Clean
+4789,1,1.0,1.0,0.0,8.0,13114.0,Moderate,18883.27,1,13743.01,Comprehensive,Minor Offenses
+4799,0,0.0,1.0,0.0,30.0,7265.06,Severe,13168.11,1,12174.12,Third-Party,Minor Offenses
+4835,1,1.0,1.0,0.0,50.0,9407.88,Severe,12350.87,1,12034.25,Comprehensive,Major Offenses
+4844,0,0.0,1.0,0.0,49.0,7179.56,Moderate,10497.43,1,8715.03,Third-Party,Clean
+4915,1,1.0,,0.0,9.0,2734.74,Minor,4998.06,1,3886.56,Third-Party,Minor Offenses
+4919,1,1.0,1.0,0.0,17.0,3109.3,Minor,3942.3,1,3273.37,Comprehensive,Clean
+4935,1,1.0,1.0,0.0,55.0,3146.11,Moderate,4799.48,0,4401.29,Third-Party,Clean
+4970,0,1.0,1.0,0.0,18.0,2158.22,Minor,4135.55,0,2906.12,Comprehensive,Minor Offenses
+5000,0,1.0,0.0,0.0,10.0,10803.69,Moderate,15701.9,1,13767.99,Third-Party,Clean
+5010,0,1.0,0.0,0.0,38.0,4220.31,Moderate,7327.44,1,6477.37,Third-Party,Minor Offenses
+5051,0,1.0,1.0,0.0,11.0,1206.47,Severe,1627.93,0,1450.98,Third-Party,Minor Offenses
+5076,1,1.0,1.0,0.0,,14457.86,Moderate,19397.5,0,14986.64,Third-Party,Minor Offenses
+5108,1,0.0,1.0,0.0,41.0,14075.05,Severe,17733.82,0,16212.54,Comprehensive,Clean
+5100,0,1.0,1.0,0.0,37.0,12094.69,Minor,18591.17,1,13523.54,Third-Party,Minor Offenses
+5151,1,0.0,0.0,0.0,13.0,12666.54,Minor,19900.7,1,15120.18,Third-Party,Clean
+5184,1,1.0,1.0,0.0,49.0,2825.0,Minor,3890.96,1,3747.93,Comprehensive,Minor Offenses
+5187,1,1.0,1.0,0.0,10.0,4440.3,Minor,8226.72,0,7581.88,Comprehensive,Minor Offenses
+5304,1,1.0,1.0,0.0,4.0,10150.81,Severe,15285.65,0,10762.99,Comprehensive,Major Offenses
+5340,1,1.0,1.0,0.0,40.0,9342.3,Minor,14072.4,1,10899.26,Comprehensive,Major Offenses
+5359,0,1.0,1.0,0.0,60.0,1844.46,Moderate,3500.97,1,2675.87,Comprehensive,Major Offenses
+5376,1,1.0,1.0,0.0,77.0,10261.95,Moderate,16408.75,0,12819.2,Comprehensive,Clean
+5380,1,1.0,1.0,0.0,10.0,3686.63,Moderate,4876.59,0,3775.79,Third-Party,Clean
+5381,0,1.0,1.0,0.0,8.0,3681.63,Severe,4864.44,0,3496.35,Comprehensive,Minor Offenses
+5400,1,1.0,1.0,0.0,0.0,5812.12,Minor,10971.0,0,9190.21,Third-Party,Minor Offenses
+5491,1,1.0,1.0,0.0,14.0,6359.46,Minor,12062.33,1,11095.17,Comprehensive,Minor Offenses
+5504,1,1.0,1.0,1.0,7.0,6836.7,Minor,11811.68,0,10418.13,Third-Party,Minor Offenses
+5547,1,0.0,1.0,0.0,44.0,1741.38,Severe,2283.99,0,2059.84,Third-Party,Clean
+5560,1,0.0,1.0,0.0,,9486.26,Moderate,17610.49,0,12756.07,Third-Party,Minor Offenses
+5639,1,0.0,1.0,0.0,9.0,4066.3,Moderate,5679.2,1,5596.55,Comprehensive,Minor Offenses
+5641,1,0.0,1.0,0.0,6.0,1604.59,Minor,3025.54,1,2878.95,Comprehensive,Major Offenses
+5666,0,0.0,1.0,0.0,19.0,12248.57,Moderate,17830.59,0,16787.98,Comprehensive,Minor Offenses
+5685,1,1.0,1.0,0.0,6.0,11611.63,Moderate,19135.2,0,18119.03,Comprehensive,Minor Offenses
+5708,0,0.0,1.0,0.0,7.0,12752.93,Severe,17311.49,0,16962.03,Third-Party,Minor Offenses
+5730,0,1.0,1.0,0.0,35.0,9284.51,Severe,16285.56,1,14058.94,Comprehensive,Clean
+5745,1,1.0,1.0,0.0,31.0,9184.66,Severe,13277.22,1,10091.81,Third-Party,Major Offenses
+5748,1,0.0,1.0,0.0,49.0,6415.7,Severe,11241.72,1,9949.32,Third-Party,Minor Offenses
+5758,1,0.0,1.0,0.0,39.0,1568.33,Minor,2196.24,0,2026.83,Comprehensive,Minor Offenses
+5800,1,1.0,1.0,0.0,34.0,6451.08,Severe,8464.84,1,7799.29,Comprehensive,Major Offenses
+5819,0,0.0,0.0,0.0,37.0,4179.19,Moderate,7767.43,0,6652.3,Comprehensive,Minor Offenses
+5881,0,1.0,,0.0,40.0,4229.43,Minor,5565.2,0,4009.94,Third-Party,Clean
+5900,0,1.0,1.0,0.0,17.0,9904.4,Moderate,14606.69,0,11850.9,Comprehensive,Minor Offenses
+5918,0,1.0,1.0,0.0,5.0,5472.59,Moderate,10169.58,1,9927.85,Third-Party,Clean
+5949,0,1.0,0.0,0.0,19.0,1307.04,Moderate,2080.4,0,1821.05,Comprehensive,Clean
+5954,1,1.0,1.0,0.0,16.0,2628.11,Severe,4793.57,1,4129.66,Third-Party,Minor Offenses
+5956,1,1.0,1.0,0.0,6.0,9816.16,Severe,13823.55,1,10791.44,Comprehensive,Major Offenses
+5991,1,0.0,1.0,0.0,34.0,1444.08,Minor,1984.55,0,1608.55,Comprehensive,Clean
+6014,1,1.0,1.0,0.0,38.0,9091.95,Minor,17098.53,0,16561.7,Third-Party,Major Offenses
+6080,0,0.0,1.0,0.0,41.0,6619.69,Severe,10155.36,1,9139.2,Comprehensive,Minor Offenses
+6000,0,0.0,1.0,0.0,35.0,7348.18,Moderate,9871.44,0,9241.8,Comprehensive,Clean
+6005,1,1.0,1.0,0.0,5.0,9410.75,Minor,12051.95,1,10079.09,Comprehensive,Minor Offenses
+6008,1,1.0,1.0,0.0,40.0,10845.08,Severe,16581.28,0,14741.99,Comprehensive,Major Offenses
+6134,1,1.0,1.0,0.0,13.0,5717.2,Severe,7282.28,1,5640.24,Comprehensive,Minor Offenses
+6195,1,1.0,1.0,0.0,7.0,9065.76,Severe,13721.31,1,12508.87,Comprehensive,Minor Offenses
+6313,0,0.0,1.0,0.0,,7129.6,Moderate,11531.77,1,9551.54,Comprehensive,Clean
+6330,1,1.0,1.0,0.0,8.0,4305.75,Severe,5707.05,1,4752.62,Third-Party,Minor Offenses
+6330,1,1.0,1.0,0.0,49.0,11424.51,Severe,17633.28,0,15778.2,Third-Party,Minor Offenses
+6368,0,1.0,1.0,0.0,50.0,10297.09,Severe,16049.81,0,15743.0,Comprehensive,Minor Offenses
+6409,1,0.0,1.0,0.0,50.0,8632.11,Severe,13339.81,1,9594.02,Comprehensive,Clean
+6434,0,0.0,1.0,0.0,10.0,12883.71,Minor,17086.34,1,16187.99,Comprehensive,Major Offenses
+6491,0,1.0,1.0,0.0,,13051.91,Minor,17412.24,0,13715.88,Third-Party,Major Offenses
+6543,0,0.0,1.0,0.0,30.0,8889.22,Severe,14313.08,0,11925.31,Third-Party,Minor Offenses
+6570,0,1.0,1.0,,17.0,10092.89,Moderate,16821.76,0,11885.82,Comprehensive,Clean
+6579,0,0.0,1.0,0.0,15.0,9131.3,Minor,14100.69,0,11143.97,Third-Party,Minor Offenses
+6593,0,0.0,1.0,0.0,0.0,9246.25,Severe,13762.75,0,11709.2,Comprehensive,Major Offenses
+6641,0,0.0,1.0,1.0,66.0,7179.72,Minor,12562.92,0,9005.76,Comprehensive,Clean
+6680,1,1.0,1.0,0.0,30.0,11204.17,Minor,15177.97,1,12860.73,Comprehensive,Major Offenses
+6690,1,0.0,1.0,0.0,30.0,2320.75,Moderate,3592.8,0,3514.24,Comprehensive,Major Offenses
+6697,1,0.0,0.0,0.0,6.0,10609.96,Severe,17676.98,0,12932.8,Third-Party,Clean
+6790,1,1.0,1.0,0.0,30.0,9311.32,Severe,17500.95,1,16264.2,Third-Party,Clean
+6869,0,0.0,1.0,0.0,50.0,611.85,Moderate,1070.32,0,880.77,Comprehensive,Minor Offenses
+6881,0,1.0,1.0,0.0,19.0,13030.11,Moderate,16603.43,0,14885.84,Third-Party,Minor Offenses
+6936,1,1.0,1.0,0.0,49.0,1782.26,Severe,3012.96,0,2344.3,Third-Party,Major Offenses
+6976,1,0.0,1.0,,40.0,3873.78,Severe,7034.82,0,5260.97,Comprehensive,Clean
+7005,1,1.0,1.0,0.0,54.0,9572.01,Moderate,14998.41,0,11220.89,Third-Party,Clean
+7035,0,0.0,0.0,0.0,3.0,2152.27,Minor,3634.82,1,2621.24,Comprehensive,Minor Offenses
+7007,0,1.0,1.0,0.0,5.0,8398.69,Minor,16450.36,0,12431.44,Comprehensive,Major Offenses
+7009,0,1.0,1.0,0.0,6.0,9984.85,Moderate,16726.62,1,15041.68,Comprehensive,Major Offenses
+7013,0,0.0,1.0,0.0,39.0,6894.71,Minor,10395.62,1,10026.65,Comprehensive,Minor Offenses
+7035,1,1.0,1.0,0.0,9.0,415.63,Moderate,624.52,0,589.7,Third-Party,Clean
+7038,0,1.0,1.0,0.0,,3700.83,Minor,6097.24,1,5521.3,Comprehensive,Minor Offenses
+7041,0,1.0,1.0,0.0,5.0,7946.46,Minor,12530.07,0,9186.16,Third-Party,Minor Offenses
+7057,0,1.0,1.0,0.0,37.0,15503.41,Severe,19633.13,1,15446.49,Comprehensive,Minor Offenses
+7060,1,0.0,1.0,0.0,,7861.5,Severe,12820.36,1,10165.8,Comprehensive,Minor Offenses
+7097,1,1.0,1.0,0.0,5.0,3214.29,Minor,5566.17,0,4313.71,Third-Party,Clean
+7107,0,0.0,1.0,0.0,47.0,7371.08,Minor,12863.11,0,10991.55,Comprehensive,Minor Offenses
+7108,0,1.0,1.0,0.0,69.0,7029.56,Severe,11029.71,0,9492.9,Third-Party,Clean
+7140,1,0.0,1.0,0.0,38.0,11432.43,Severe,15706.99,0,12676.57,Third-Party,Minor Offenses
+7163,1,0.0,1.0,0.0,,1452.87,Severe,2586.12,0,2084.77,Comprehensive,Major Offenses
+7309,0,1.0,1.0,1.0,19.0,10934.21,Moderate,15340.04,1,14551.05,Comprehensive,Clean
+7350,1,1.0,1.0,0.0,,5597.49,Minor,11054.7,1,10355.91,Comprehensive,Major Offenses
+7381,1,1.0,1.0,0.0,7.0,12062.07,Severe,19278.34,1,15274.98,Comprehensive,Minor Offenses
+7386,0,0.0,1.0,0.0,10.0,5251.33,Minor,7166.51,1,6981.16,Comprehensive,Minor Offenses
+7406,0,1.0,1.0,0.0,19.0,7722.47,Moderate,12836.13,1,12654.43,Comprehensive,Minor Offenses
+7477,1,0.0,1.0,0.0,6.0,12495.54,Moderate,18674.55,1,14902.72,Third-Party,Clean
+7484,0,1.0,1.0,0.0,5.0,1403.14,Severe,2498.94,1,2014.96,Third-Party,Major Offenses
+7498,1,1.0,1.0,0.0,31.0,13567.48,Moderate,18775.96,0,15991.3,Comprehensive,Clean
+7586,0,1.0,1.0,0.0,17.0,7175.1,Minor,13913.77,0,13668.0,Third-Party,Clean
+7605,0,0.0,1.0,0.0,6.0,1377.62,Severe,1822.82,1,1755.19,Third-Party,Minor Offenses
+7647,0,1.0,1.0,0.0,10.0,3563.08,Minor,6368.79,1,4654.12,Comprehensive,Major Offenses
+7667,1,1.0,1.0,0.0,,10908.3,Minor,14309.36,0,11702.47,Comprehensive,Minor Offenses
+7670,0,1.0,0.0,0.0,6.0,1098.45,Moderate,1813.34,0,1570.37,Third-Party,Clean
+7694,1,0.0,1.0,0.0,0.0,8495.8,Moderate,11852.32,0,10085.61,Comprehensive,Minor Offenses
+7704,1,1.0,1.0,0.0,39.0,4316.17,Moderate,7244.72,0,5492.65,Third-Party,Major Offenses
+7707,1,0.0,1.0,0.0,,9730.4,Moderate,12607.85,1,12073.84,Comprehensive,Minor Offenses
+7713,1,1.0,1.0,0.0,46.0,748.87,Moderate,1391.97,0,1257.06,Third-Party,Major Offenses
+7748,0,0.0,1.0,0.0,7.0,9684.44,Severe,17494.97,1,16644.23,Third-Party,Major Offenses
+7769,1,1.0,0.0,0.0,,12623.23,Minor,19483.03,1,18657.52,Third-Party,Minor Offenses
+7776,1,0.0,1.0,0.0,41.0,10173.27,Minor,19393.12,1,17929.07,Third-Party,Clean
+7779,0,1.0,1.0,0.0,8.0,8447.97,Minor,15118.21,0,12574.77,Comprehensive,Minor Offenses
+7791,1,1.0,1.0,0.0,8.0,2378.11,Minor,3036.68,0,2681.89,Comprehensive,Clean
+7855,1,0.0,1.0,0.0,33.0,12121.09,Moderate,15286.13,1,11435.7,Third-Party,Clean
+7883,1,1.0,1.0,0.0,5.0,600.28,Minor,979.44,1,883.55,Third-Party,Minor Offenses
+7904,1,0.0,1.0,0.0,57.0,723.69,Severe,931.41,1,702.07,Comprehensive,Clean
+7909,1,1.0,1.0,0.0,36.0,4518.34,Severe,6810.4,0,6185.1,Comprehensive,Clean
+7930,1,0.0,1.0,0.0,35.0,5825.81,Minor,10028.54,1,7710.74,Third-Party,Minor Offenses
+7971,1,0.0,1.0,0.0,41.0,11032.46,Minor,15522.94,0,11413.48,Third-Party,Minor Offenses
+7980,0,1.0,1.0,0.0,15.0,9644.78,Severe,13824.26,1,10362.46,Third-Party,Minor Offenses
+7996,0,1.0,0.0,0.0,13.0,7326.08,Severe,9195.1,1,6442.07,Third-Party,Clean
+7999,0,0.0,0.0,0.0,49.0,3381.88,Moderate,5835.72,1,5343.31,Third-Party,Major Offenses
+8005,1,1.0,1.0,0.0,0.0,13993.02,Severe,19943.93,0,18342.84,Comprehensive,Clean
+8033,1,1.0,1.0,0.0,13.0,4542.78,Moderate,8810.54,0,7528.43,Third-Party,Major Offenses
+8036,1,0.0,1.0,0.0,0.0,4968.17,Moderate,9302.05,1,6961.74,Comprehensive,Minor Offenses
+8051,1,1.0,1.0,0.0,6.0,1849.67,Moderate,3690.66,0,2675.97,Comprehensive,Major Offenses
+8174,1,1.0,1.0,0.0,,12796.44,Moderate,15998.79,1,11290.97,Comprehensive,Minor Offenses
+8300,0,0.0,1.0,0.0,36.0,10389.4,Moderate,14026.8,0,10516.23,Third-Party,Minor Offenses
+8336,1,1.0,1.0,0.0,48.0,3536.57,Minor,4805.01,0,4647.68,Comprehensive,Major Offenses
+8338,1,0.0,1.0,0.0,10.0,1375.33,Severe,2106.43,0,1627.14,Comprehensive,Minor Offenses
+8354,1,1.0,1.0,0.0,39.0,8124.42,Moderate,13769.74,1,11102.29,Comprehensive,Major Offenses
+8380,1,0.0,1.0,0.0,6.0,7233.35,Severe,13262.97,0,9703.24,Comprehensive,Minor Offenses
+8397,0,0.0,,0.0,,3412.05,Severe,5828.56,0,4468.81,Third-Party,Clean
+8400,1,1.0,1.0,0.0,46.0,11668.68,Moderate,19041.84,1,16295.39,Third-Party,Clean
+8406,0,1.0,1.0,0.0,0.0,2504.6,Minor,3445.63,1,3040.17,Comprehensive,Minor Offenses
+8410,0,1.0,1.0,0.0,9.0,5911.1,Moderate,8930.53,1,6908.71,Comprehensive,Minor Offenses
+8414,1,0.0,1.0,0.0,38.0,9889.6,Minor,18900.51,1,13557.71,Third-Party,Major Offenses
+8418,1,1.0,1.0,0.0,6.0,4389.31,Severe,8684.68,0,7098.07,Third-Party,Clean
+8434,0,0.0,0.0,0.0,5.0,6873.23,Minor,12951.26,0,9975.85,Third-Party,Major Offenses
+8471,1,0.0,1.0,0.0,54.0,5142.91,Minor,8253.09,0,6320.76,Comprehensive,Minor Offenses
+8509,1,1.0,1.0,0.0,,4560.57,Minor,5847.2,0,5776.79,Third-Party,Minor Offenses
+8519,0,0.0,0.0,0.0,31.0,13608.45,Severe,19687.56,0,17421.33,Comprehensive,Major Offenses
+8570,0,0.0,1.0,0.0,8.0,6281.33,Severe,8482.01,1,7354.44,Comprehensive,Minor Offenses
+8581,1,0.0,1.0,0.0,,11476.78,Minor,17934.93,0,14791.52,Third-Party,Clean
+8647,0,0.0,1.0,0.0,46.0,3032.83,Minor,4984.11,0,4130.25,Comprehensive,Major Offenses
+8673,1,1.0,1.0,0.0,33.0,2479.17,Moderate,4655.54,0,4014.34,Third-Party,Clean
+8686,1,0.0,1.0,0.0,7.0,844.48,Minor,1107.11,1,1006.28,Comprehensive,Clean
+8699,1,1.0,1.0,0.0,11.0,9706.83,Moderate,13207.5,1,12027.33,Third-Party,Clean
+8706,0,1.0,1.0,0.0,6.0,4230.79,Minor,7686.26,0,5776.29,Comprehensive,Major Offenses
+8713,1,1.0,1.0,0.0,41.0,11344.58,Moderate,17354.99,1,14752.33,Comprehensive,Minor Offenses
+8748,0,0.0,1.0,0.0,39.0,6286.09,Severe,9727.59,1,8011.52,Third-Party,Clean
+8770,1,1.0,1.0,0.0,16.0,13324.12,Minor,19379.77,1,18627.02,Third-Party,Clean
+8811,0,0.0,1.0,0.0,36.0,3227.72,Minor,4117.75,1,3662.43,Third-Party,Clean
+8816,0,0.0,0.0,0.0,19.0,11752.12,Minor,17438.15,1,14992.47,Third-Party,Minor Offenses
+8830,1,1.0,0.0,0.0,61.0,10357.11,Minor,15643.64,1,11492.11,Comprehensive,Minor Offenses
+8846,1,1.0,1.0,0.0,56.0,8000.99,Moderate,15532.98,1,13695.29,Third-Party,Major Offenses
+8886,0,1.0,1.0,0.0,14.0,8806.96,Minor,16973.27,0,12478.09,Third-Party,Minor Offenses
+8938,1,1.0,1.0,0.0,34.0,8532.15,Severe,15339.97,0,12289.8,Comprehensive,Major Offenses
+8939,0,0.0,1.0,0.0,45.0,6479.47,Severe,12711.3,1,9442.62,Third-Party,Major Offenses
+8940,0,1.0,1.0,0.0,53.0,2211.88,Minor,3059.28,0,2776.67,Third-Party,Major Offenses
+8999,1,0.0,1.0,0.0,38.0,813.26,Severe,1134.26,0,864.17,Comprehensive,Major Offenses
+9047,1,1.0,,,10.0,9981.6,Minor,18456.53,1,15089.28,Third-Party,Major Offenses
+9081,0,1.0,0.0,0.0,13.0,9403.83,Minor,12524.68,0,12132.69,Third-Party,Clean
+9030,0,1.0,0.0,0.0,36.0,8760.72,Severe,16032.48,1,12205.45,Third-Party,Minor Offenses
+9034,1,0.0,1.0,0.0,16.0,5838.4,Minor,9889.69,1,8429.39,Third-Party,Clean
+9071,0,1.0,1.0,0.0,31.0,1601.96,Severe,2787.51,1,2301.87,Third-Party,Major Offenses
+9086,1,1.0,1.0,0.0,41.0,1799.06,Moderate,2941.12,0,2074.78,Third-Party,Minor Offenses
+9097,0,1.0,1.0,0.0,60.0,7993.8,Minor,13868.52,0,13006.28,Comprehensive,Clean
+9103,1,0.0,1.0,0.0,10.0,5749.65,Moderate,8890.96,0,6407.84,Third-Party,Clean
+9113,0,1.0,1.0,0.0,44.0,2744.14,Severe,4410.23,0,3714.63,Comprehensive,Major Offenses
+9114,1,0.0,,0.0,9.0,8028.23,Moderate,10086.09,1,8756.78,Comprehensive,Clean
+9146,0,1.0,1.0,0.0,46.0,905.43,Moderate,1752.07,1,1556.76,Comprehensive,Clean
+9151,1,1.0,1.0,0.0,8.0,6429.61,Severe,11848.44,0,10741.67,Comprehensive,Clean
+9173,1,1.0,1.0,0.0,38.0,2963.74,Moderate,5745.37,1,4458.3,Third-Party,Clean
+9304,0,0.0,1.0,0.0,,11040.08,Moderate,16052.4,1,11284.73,Third-Party,Clean
+9330,0,0.0,1.0,0.0,34.0,3383.17,Severe,6552.06,0,6008.46,Third-Party,Major Offenses
+9378,1,0.0,1.0,0.0,16.0,7041.33,Moderate,9376.79,1,8070.57,Comprehensive,Major Offenses
+9407,1,0.0,1.0,0.0,0.0,474.89,Severe,726.6,0,690.88,Third-Party,Clean
+9400,1,0.0,1.0,0.0,59.0,1258.76,Moderate,1912.71,1,1810.22,Third-Party,Major Offenses
+9437,0,1.0,1.0,0.0,30.0,5450.52,Severe,8153.62,0,7770.38,Third-Party,Major Offenses
+9443,1,1.0,1.0,0.0,9.0,5434.61,Severe,9858.81,1,8335.9,Comprehensive,Minor Offenses
+9510,0,1.0,1.0,0.0,,6823.77,Moderate,12200.4,1,9761.4,Comprehensive,Clean
+9514,0,1.0,1.0,0.0,46.0,3685.51,Moderate,6187.42,0,5800.5,Third-Party,Major Offenses
+9544,1,1.0,1.0,0.0,40.0,9528.05,Moderate,14052.15,0,11739.0,Comprehensive,Major Offenses
+9546,0,1.0,1.0,0.0,54.0,9724.97,Minor,17272.39,0,13041.22,Comprehensive,Clean
+9553,0,1.0,1.0,0.0,37.0,8401.71,Minor,15707.09,0,15023.71,Third-Party,Minor Offenses
+9555,0,1.0,1.0,0.0,67.0,1006.65,Minor,1272.57,1,1227.73,Comprehensive,Clean
+9581,0,0.0,1.0,0.0,34.0,5000.03,Severe,9869.89,1,8289.65,Comprehensive,Minor Offenses
+9600,0,1.0,1.0,0.0,8.0,1886.2,Moderate,2546.14,0,1840.12,Third-Party,Clean
+9603,1,1.0,1.0,0.0,59.0,3843.97,Severe,5219.88,1,4261.24,Comprehensive,Clean
+9604,0,1.0,1.0,0.0,35.0,11630.05,Minor,19739.92,0,18576.47,Comprehensive,Clean
+9608,0,1.0,1.0,0.0,41.0,1772.73,Moderate,3278.66,0,3182.05,Comprehensive,Clean
+9605,0,0.0,1.0,0.0,6.0,5561.02,Severe,10228.32,1,7784.18,Comprehensive,Minor Offenses
+9647,1,0.0,0.0,0.0,,8903.7,Moderate,12554.04,1,9040.06,Comprehensive,Minor Offenses
+9653,0,1.0,1.0,0.0,35.0,9837.02,Severe,14198.07,0,13675.65,Comprehensive,Major Offenses
+9660,1,1.0,1.0,0.0,55.0,8386.65,Moderate,11413.15,0,9322.51,Comprehensive,Clean
+9704,0,0.0,1.0,0.0,,539.47,Minor,690.53,0,595.6,Comprehensive,Minor Offenses
+9704,0,1.0,1.0,0.0,16.0,4858.23,Minor,6866.0,1,6800.22,Third-Party,Minor Offenses
+9758,1,1.0,1.0,0.0,36.0,5793.08,Moderate,10595.38,1,7628.35,Third-Party,Minor Offenses
+9791,1,0.0,1.0,0.0,8.0,1268.35,Severe,2213.4,1,1979.88,Third-Party,Clean
+9793,1,1.0,1.0,0.0,6.0,5522.43,Minor,7337.23,1,5299.18,Third-Party,Major Offenses
+9806,0,1.0,1.0,0.0,3.0,645.78,Minor,1147.46,0,932.47,Comprehensive,Minor Offenses
+9800,0,1.0,,,5.0,1060.36,Minor,2032.28,0,1912.67,Third-Party,Clean
+9817,1,1.0,1.0,0.0,,5858.51,Moderate,8240.0,0,6839.54,Third-Party,Minor Offenses
+9879,1,1.0,1.0,0.0,54.0,1916.88,Moderate,3087.96,0,3085.35,Comprehensive,Minor Offenses
+9910,1,0.0,,0.0,40.0,8976.17,Severe,11567.05,0,10036.94,Comprehensive,Major Offenses
+38,1,1.0,1.0,0.0,,9692.54,Severe,13944.57,0,11104.74,Comprehensive,Minor Offenses
+6,0,0.0,1.0,0.0,,8492.75,Severe,16111.44,1,12341.9,Comprehensive,Minor Offenses
+5,0,1.0,1.0,0.0,43.0,3453.47,Moderate,4402.93,1,3545.05,Comprehensive,Clean
+7,1,1.0,,,13.0,2175.07,Moderate,3765.91,0,3057.02,Third-Party,Clean
+19,0,0.0,1.0,0.0,83.0,1526.4,Severe,2539.07,0,1829.69,Comprehensive,Major Offenses
+106,0,0.0,1.0,0.0,10.0,8013.2,Severe,12910.39,1,10468.68,Third-Party,Clean
+116,1,0.0,0.0,0.0,,7357.53,Moderate,14276.28,1,11981.68,Third-Party,Clean
+156,0,0.0,1.0,0.0,13.0,724.19,Severe,1115.93,1,1023.11,Comprehensive,Major Offenses
+188,0,1.0,1.0,0.0,35.0,10071.96,Minor,18756.14,1,16824.61,Third-Party,Minor Offenses
+198,1,1.0,1.0,,0.0,938.77,Moderate,1513.44,0,1381.21,Third-Party,Major Offenses
+308,0,1.0,1.0,0.0,15.0,6690.8,Severe,11055.28,0,7766.43,Comprehensive,Clean
+319,0,1.0,1.0,0.0,,10485.01,Moderate,14326.68,0,10964.21,Third-Party,Major Offenses
+479,0,1.0,1.0,0.0,45.0,12954.72,Minor,17483.9,0,15709.38,Third-Party,Minor Offenses
+545,1,1.0,1.0,0.0,40.0,7876.23,Moderate,14424.7,0,12191.71,Third-Party,Major Offenses
+564,0,0.0,0.0,0.0,5.0,9841.0,Moderate,16133.7,1,11319.31,Comprehensive,Clean
+565,1,0.0,1.0,0.0,49.0,4357.04,Moderate,7119.28,0,6701.72,Comprehensive,Clean
+575,0,0.0,1.0,0.0,14.0,8938.99,Moderate,16389.09,1,15272.06,Comprehensive,Major Offenses
+590,0,0.0,1.0,0.0,48.0,1525.1,Minor,2062.24,0,1782.86,Third-Party,Minor Offenses
+593,1,0.0,1.0,0.0,43.0,12782.66,Moderate,17948.92,0,12922.13,Comprehensive,Major Offenses
+606,0,0.0,1.0,0.0,60.0,6227.45,Moderate,11178.05,0,10395.08,Third-Party,Minor Offenses
+758,1,1.0,1.0,0.0,9.0,10027.03,Severe,16437.31,0,14384.52,Comprehensive,Minor Offenses
+861,0,0.0,0.0,0.0,50.0,4955.94,Moderate,9320.21,0,8710.56,Third-Party,Major Offenses
+870,1,1.0,1.0,0.0,10.0,8984.27,Severe,13049.77,1,12077.88,Comprehensive,Minor Offenses
+876,1,0.0,1.0,0.0,40.0,5774.39,Minor,10764.85,1,10128.65,Comprehensive,Clean
+884,0,0.0,1.0,0.0,6.0,11750.49,Minor,14766.0,1,12630.87,Third-Party,Major Offenses
+895,1,1.0,1.0,0.0,11.0,1535.79,Minor,2091.78,0,1552.3,Comprehensive,Minor Offenses
+945,1,0.0,0.0,0.0,15.0,1034.75,Minor,1676.87,0,1511.44,Third-Party,Clean
+960,0,1.0,1.0,0.0,11.0,3582.38,Severe,5318.51,1,4712.96,Comprehensive,Major Offenses
+993,1,1.0,1.0,0.0,10.0,2792.85,Moderate,3611.12,0,3331.89,Comprehensive,Clean
+997,0,1.0,,,,11658.87,Minor,17499.78,0,13141.71,Third-Party,Clean
+6,0,1.0,1.0,,4.0,2637.29,Moderate,4774.67,1,3621.55,Third-Party,Clean
+30,0,1.0,1.0,0.0,16.0,11983.44,Severe,19529.37,0,18887.3,Third-Party,Minor Offenses
+64,0,0.0,0.0,0.0,15.0,5322.91,Severe,7069.47,1,6539.21,Comprehensive,Major Offenses
+94,0,1.0,1.0,0.0,,2808.62,Severe,4051.3,0,3939.76,Third-Party,Major Offenses
+7,0,1.0,1.0,0.0,11.0,11053.34,Minor,15899.12,1,14748.26,Comprehensive,Minor Offenses
+34,0,1.0,1.0,0.0,59.0,10142.67,Moderate,13344.8,0,11732.04,Third-Party,Major Offenses
+95,1,1.0,1.0,0.0,,7846.94,Moderate,10214.82,0,9154.93,Third-Party,Clean
+99,0,0.0,1.0,0.0,36.0,8791.06,Moderate,11329.59,1,10952.75,Third-Party,Major Offenses
+158,0,1.0,1.0,0.0,6.0,7675.5,Severe,14524.43,0,12689.15,Third-Party,Minor Offenses
+169,1,1.0,1.0,0.0,40.0,3286.26,Minor,4954.87,0,4408.43,Third-Party,Clean
+171,0,1.0,1.0,0.0,6.0,14391.43,Severe,19928.51,1,14885.46,Third-Party,Minor Offenses
+189,1,0.0,1.0,0.0,57.0,14184.18,Severe,19508.47,0,16429.57,Comprehensive,Clean
+196,1,0.0,1.0,0.0,,8989.88,Moderate,13181.35,1,12059.87,Third-Party,Clean
+300,0,0.0,1.0,0.0,,2415.25,Severe,4391.08,0,3430.68,Comprehensive,Major Offenses
+308,0,1.0,1.0,0.0,40.0,10175.04,Moderate,13764.45,0,10470.29,Third-Party,Clean
+330,1,1.0,1.0,0.0,7.0,1366.1,Minor,1907.87,0,1515.13,Third-Party,Minor Offenses
+331,0,1.0,1.0,0.0,10.0,577.23,Moderate,1097.72,0,847.93,Third-Party,Major Offenses
+363,0,1.0,1.0,0.0,,3531.15,Minor,5524.82,1,4223.58,Comprehensive,Minor Offenses
+364,1,1.0,1.0,1.0,5.0,5257.51,Moderate,9521.15,0,7878.33,Comprehensive,Clean
+450,1,1.0,1.0,0.0,33.0,10480.46,Severe,17431.31,1,16949.36,Third-Party,Minor Offenses
+453,0,0.0,1.0,0.0,64.0,7419.53,Severe,14679.8,0,12508.92,Comprehensive,Minor Offenses
+456,0,1.0,1.0,0.0,19.0,9290.81,Minor,14982.78,0,11332.62,Third-Party,Clean
+460,1,1.0,0.0,0.0,37.0,5849.76,Minor,8797.12,0,6361.12,Third-Party,Major Offenses
+579,1,1.0,0.0,0.0,7.0,4969.66,Minor,7245.73,0,6585.26,Comprehensive,Minor Offenses
+590,0,1.0,1.0,,5.0,5407.31,Moderate,7735.26,1,6303.0,Comprehensive,Clean
+617,0,1.0,1.0,0.0,5.0,14836.91,Moderate,19759.17,1,18703.03,Comprehensive,Major Offenses
+656,0,1.0,,,0.0,723.94,Minor,1282.13,1,1151.16,Comprehensive,Major Offenses
+696,1,0.0,,0.0,35.0,9332.73,Severe,17407.11,1,16343.06,Third-Party,Major Offenses
+700,0,1.0,0.0,0.0,43.0,8902.48,Moderate,11784.17,0,9210.32,Comprehensive,Minor Offenses
+703,1,1.0,1.0,0.0,48.0,4951.84,Moderate,9053.0,1,8217.48,Comprehensive,Minor Offenses
+733,0,1.0,1.0,0.0,,11603.14,Moderate,14642.52,1,11409.72,Third-Party,Minor Offenses
+763,1,1.0,,,66.0,7520.12,Minor,9990.04,0,9807.43,Comprehensive,Major Offenses
+768,1,1.0,1.0,0.0,10.0,11400.25,Minor,17531.75,0,15619.25,Comprehensive,Minor Offenses
+873,1,1.0,1.0,0.0,0.0,14350.27,Minor,18063.69,0,14403.15,Comprehensive,Clean
+883,1,0.0,1.0,0.0,34.0,4616.62,Minor,8723.56,0,6811.82,Comprehensive,Minor Offenses
+890,1,0.0,1.0,0.0,14.0,3485.33,Minor,5898.14,1,4466.53,Third-Party,Minor Offenses
+907,1,0.0,1.0,0.0,30.0,8332.76,Severe,12050.83,1,10946.88,Third-Party,Major Offenses
+901,0,,,,,11066.15,Severe,18291.09,0,14003.93,Comprehensive,Minor Offenses
+904,1,1.0,1.0,0.0,50.0,3587.31,Minor,4607.91,0,4048.47,Comprehensive,Clean
+905,1,0.0,1.0,,38.0,6572.93,Moderate,12647.85,0,9857.61,Third-Party,Major Offenses
+907,0,1.0,1.0,0.0,1.0,8519.99,Minor,12815.42,1,11515.82,Comprehensive,Clean
+933,1,0.0,1.0,0.0,6.0,10020.53,Severe,14795.7,1,13974.27,Comprehensive,Major Offenses
+936,0,0.0,0.0,0.0,5.0,2133.08,Severe,3065.57,0,2861.43,Comprehensive,Major Offenses
+1003,1,0.0,1.0,0.0,,8338.27,Moderate,14458.59,0,13421.26,Comprehensive,Minor Offenses
+1090,0,1.0,1.0,0.0,50.0,11106.46,Severe,18226.13,1,13784.73,Comprehensive,Clean
+1010,0,0.0,1.0,0.0,6.0,3015.29,Minor,4003.82,0,2908.84,Comprehensive,Major Offenses
+1030,0,0.0,0.0,0.0,30.0,2866.18,Moderate,5132.09,0,4668.58,Comprehensive,Minor Offenses
+1031,0,1.0,1.0,0.0,14.0,14543.94,Minor,19442.2,1,15757.98,Comprehensive,Major Offenses
+1058,0,0.0,1.0,1.0,39.0,2694.62,Minor,4029.05,0,3342.92,Comprehensive,Major Offenses
+1085,0,1.0,1.0,0.0,48.0,12504.11,Moderate,17160.51,1,12172.72,Third-Party,Major Offenses
+1110,0,0.0,1.0,1.0,10.0,7211.82,Minor,10099.42,0,7856.07,Third-Party,Major Offenses
+1139,0,1.0,1.0,0.0,13.0,2991.76,Severe,5321.01,0,3778.46,Third-Party,Major Offenses
+1150,1,0.0,1.0,0.0,47.0,11722.6,Minor,17479.62,1,16846.08,Comprehensive,Major Offenses
+1186,0,1.0,1.0,0.0,70.0,6982.33,Moderate,9183.45,1,7098.98,Comprehensive,Minor Offenses
+1308,1,1.0,1.0,0.0,35.0,6635.68,Moderate,10538.94,0,9139.38,Third-Party,Major Offenses
+1404,1,0.0,,,,5928.82,Moderate,7505.05,1,5341.3,Comprehensive,Clean
+1454,1,1.0,1.0,0.0,,7667.73,Minor,12062.54,0,10856.94,Third-Party,Minor Offenses
+1474,0,1.0,1.0,0.0,70.0,2002.37,Moderate,3688.72,0,2939.57,Comprehensive,Clean
+1478,1,1.0,1.0,0.0,39.0,5012.42,Moderate,8126.09,1,7877.23,Third-Party,Major Offenses
+1495,1,0.0,1.0,0.0,43.0,15241.69,Minor,19403.54,0,18752.27,Third-Party,Clean
+1500,0,0.0,0.0,0.0,,3297.56,Severe,5533.6,0,4413.53,Third-Party,Major Offenses
+1544,0,1.0,1.0,0.0,35.0,10118.55,Minor,13306.36,1,12911.01,Comprehensive,Major Offenses
+1545,1,0.0,1.0,0.0,,5229.25,Moderate,6841.21,1,6833.32,Third-Party,Minor Offenses
+1580,0,,1.0,0.0,14.0,9428.42,Moderate,15582.73,0,14766.58,Comprehensive,Minor Offenses
+1598,1,1.0,1.0,0.0,47.0,1602.25,Minor,3052.04,1,2910.0,Comprehensive,Major Offenses
+1670,0,1.0,1.0,0.0,15.0,13925.18,Severe,19411.51,1,15038.15,Comprehensive,Minor Offenses
+1700,1,0.0,0.0,0.0,8.0,5548.14,Moderate,9348.9,1,8161.69,Comprehensive,Clean
+1767,1,1.0,1.0,0.0,,3750.06,Moderate,5102.98,1,3675.05,Comprehensive,Minor Offenses
+1785,0,1.0,1.0,0.0,9.0,1223.32,Moderate,1933.19,0,1408.28,Comprehensive,Minor Offenses
+1810,1,1.0,1.0,0.0,7.0,2459.84,Minor,3810.28,0,3809.01,Comprehensive,Clean
+1843,1,1.0,1.0,0.0,3.0,7799.85,Moderate,10635.59,0,8487.11,Third-Party,Minor Offenses
+1847,0,1.0,1.0,0.0,35.0,4346.95,Severe,7071.56,1,6537.34,Third-Party,Major Offenses
+1901,0,0.0,1.0,0.0,55.0,10546.79,Moderate,16663.23,1,15696.75,Third-Party,Clean
+1910,1,0.0,1.0,0.0,45.0,5455.84,Moderate,8902.31,1,8523.13,Comprehensive,Major Offenses
+1935,0,0.0,1.0,0.0,40.0,3264.54,Severe,5349.93,1,5346.12,Comprehensive,Clean
+1944,1,0.0,1.0,0.0,1.0,8244.88,Moderate,12534.33,1,9682.13,Comprehensive,Major Offenses
+1980,1,0.0,1.0,1.0,49.0,10606.5,Minor,14282.16,1,10170.4,Comprehensive,Major Offenses
+1985,1,0.0,1.0,0.0,,2286.44,Minor,3757.32,1,3093.62,Third-Party,Minor Offenses
+1993,0,0.0,1.0,0.0,50.0,2476.99,Minor,3768.57,0,2785.06,Comprehensive,Major Offenses
+3003,1,0.0,1.0,0.0,47.0,852.04,Severe,1215.09,0,858.74,Third-Party,Minor Offenses
+3034,0,0.0,1.0,0.0,8.0,8631.07,Moderate,14859.84,1,12008.65,Comprehensive,Clean
+3070,0,1.0,1.0,1.0,,7841.42,Minor,13444.19,1,12571.95,Third-Party,Major Offenses
+3090,1,0.0,1.0,0.0,19.0,7609.37,Severe,9755.3,1,8485.69,Comprehensive,Major Offenses
+3043,0,1.0,1.0,0.0,8.0,12162.29,Moderate,16961.32,0,13464.46,Third-Party,Clean
+3060,0,0.0,1.0,0.0,5.0,10912.24,Severe,16210.57,0,14529.58,Comprehensive,Clean
+3096,1,1.0,1.0,0.0,64.0,8272.37,Minor,11914.41,1,9169.39,Third-Party,Major Offenses
+3133,1,0.0,1.0,0.0,19.0,8868.86,Minor,17431.29,1,12277.11,Comprehensive,Clean
+3136,0,0.0,0.0,0.0,6.0,3093.97,Minor,4513.9,0,4194.79,Third-Party,Minor Offenses
+3149,1,1.0,1.0,0.0,64.0,1751.23,Severe,2682.43,0,2379.65,Third-Party,Clean
+3304,1,0.0,1.0,0.0,37.0,3823.14,Severe,5760.12,0,5349.37,Comprehensive,Clean
+3309,0,1.0,0.0,0.0,5.0,980.54,Minor,1613.19,0,1148.08,Third-Party,Major Offenses
+3334,1,1.0,1.0,0.0,0.0,5694.29,Severe,10857.81,1,10327.25,Comprehensive,Minor Offenses
+3401,0,1.0,1.0,0.0,63.0,10470.24,Minor,18763.81,0,16622.07,Comprehensive,Clean
+3490,1,1.0,1.0,0.0,3.0,995.04,Minor,1267.2,0,1101.22,Comprehensive,Minor Offenses
+3570,0,,1.0,0.0,,1793.83,Moderate,2881.14,1,2556.68,Third-Party,Minor Offenses
+3608,0,1.0,,,7.0,5963.49,Severe,9317.88,0,8938.92,Third-Party,Minor Offenses
+3700,0,0.0,1.0,0.0,5.0,9651.15,Minor,18710.56,0,16391.97,Comprehensive,Major Offenses
+3708,1,0.0,1.0,0.0,13.0,3407.63,Minor,6665.04,0,5827.15,Comprehensive,Clean
+3734,0,0.0,1.0,0.0,57.0,7431.23,Severe,10391.08,1,10362.02,Third-Party,Major Offenses
+3748,0,0.0,,0.0,,866.91,Moderate,1310.67,0,1215.02,Third-Party,Clean
+3753,0,1.0,1.0,0.0,51.0,2214.11,Moderate,3392.69,1,2825.05,Third-Party,Clean
+3808,0,0.0,1.0,0.0,30.0,11309.38,Minor,19739.29,1,18006.56,Comprehensive,Major Offenses
+3840,1,0.0,1.0,0.0,,13976.44,Severe,19319.81,0,15779.82,Comprehensive,Minor Offenses
+3906,1,1.0,1.0,0.0,50.0,328.26,Moderate,596.33,0,458.38,Comprehensive,Minor Offenses
+3930,0,0.0,1.0,0.0,1.0,10616.23,Severe,19060.33,0,16755.09,Comprehensive,Clean
+3957,1,1.0,1.0,1.0,30.0,8273.06,Severe,12962.84,0,12683.55,Comprehensive,Major Offenses
+3978,1,1.0,1.0,0.0,47.0,10208.68,Minor,17424.41,1,17054.0,Third-Party,Minor Offenses
+3990,0,1.0,1.0,0.0,3.0,5379.14,Moderate,9367.43,0,7518.03,Comprehensive,Minor Offenses
+4050,1,1.0,1.0,0.0,11.0,7320.03,Minor,10554.12,0,9058.64,Third-Party,Clean
+4084,0,0.0,1.0,0.0,7.0,6975.52,Moderate,10032.51,0,7659.73,Third-Party,Clean
+4000,1,1.0,1.0,0.0,,10092.17,Moderate,13503.85,1,13486.15,Comprehensive,Major Offenses
+4005,1,0.0,1.0,0.0,9.0,2015.51,Moderate,3223.2,0,3204.94,Third-Party,Clean
+4030,0,0.0,1.0,0.0,31.0,566.02,Moderate,1084.49,0,970.46,Comprehensive,Minor Offenses
+4040,0,0.0,0.0,0.0,5.0,3786.34,Moderate,6504.63,1,6122.97,Third-Party,Minor Offenses
+4044,0,0.0,1.0,0.0,56.0,11307.59,Severe,14241.27,1,13024.07,Comprehensive,Minor Offenses
+4047,0,0.0,1.0,0.0,44.0,3011.6,Minor,4436.14,0,3894.7,Comprehensive,Minor Offenses
+4067,1,0.0,1.0,0.0,34.0,9718.49,Severe,13631.93,0,9760.52,Third-Party,Major Offenses
+4074,0,1.0,1.0,0.0,49.0,9749.49,Moderate,19413.28,0,16237.84,Comprehensive,Major Offenses
+4086,1,1.0,1.0,0.0,,1527.92,Minor,2331.06,0,2103.63,Third-Party,Clean
+4100,0,1.0,,,0.0,6961.16,Moderate,13615.74,0,12298.55,Comprehensive,Clean
+4161,0,0.0,0.0,0.0,43.0,6139.64,Minor,9153.13,1,7431.76,Comprehensive,Clean
+4163,1,1.0,1.0,0.0,64.0,13528.76,Severe,17428.77,1,17123.9,Comprehensive,Major Offenses
+4171,0,0.0,1.0,0.0,,3126.07,Minor,3954.42,0,2966.63,Third-Party,Minor Offenses
+4179,0,0.0,0.0,0.0,16.0,9274.43,Minor,14006.21,0,11906.79,Third-Party,Clean
+4305,0,0.0,1.0,0.0,19.0,10736.92,Minor,16843.25,1,15281.29,Comprehensive,Minor Offenses
+4319,0,1.0,0.0,0.0,3.0,14823.9,Minor,18919.98,0,17200.92,Third-Party,Clean
+4350,1,1.0,,,,9705.13,Minor,13823.34,0,12366.25,Comprehensive,Clean
+4357,1,1.0,1.0,0.0,34.0,5295.95,Moderate,10194.91,0,7978.4,Third-Party,Clean
+4366,1,0.0,1.0,0.0,58.0,8027.19,Minor,12548.02,0,9371.64,Third-Party,Clean
+4375,1,0.0,1.0,0.0,30.0,9979.05,Minor,17443.65,0,15538.49,Comprehensive,Clean
+4404,0,0.0,1.0,0.0,57.0,7452.15,Severe,11626.89,1,10229.23,Comprehensive,Minor Offenses
+4458,1,1.0,1.0,0.0,,695.56,Minor,1092.55,0,823.57,Comprehensive,Clean
+4489,0,1.0,0.0,0.0,14.0,12584.46,Severe,18653.5,0,17003.44,Comprehensive,Minor Offenses
+4507,0,1.0,1.0,0.0,11.0,8465.52,Moderate,13945.77,0,11666.36,Comprehensive,Major Offenses
+4565,1,1.0,1.0,0.0,,7520.76,Minor,13692.01,1,12327.3,Third-Party,Clean
+4600,1,1.0,1.0,0.0,4.0,3063.94,Severe,4705.67,1,4476.08,Third-Party,Minor Offenses
+4604,1,1.0,1.0,0.0,37.0,9998.67,Severe,13348.27,1,10023.46,Comprehensive,Major Offenses
+4633,0,0.0,0.0,0.0,19.0,5719.74,Moderate,8180.36,1,5773.24,Comprehensive,Major Offenses
+4679,1,1.0,1.0,0.0,39.0,7939.36,Minor,13199.04,0,12324.35,Comprehensive,Major Offenses
+4697,1,1.0,0.0,0.0,40.0,2012.97,Minor,2578.56,1,2276.63,Third-Party,Minor Offenses
+4740,0,0.0,1.0,0.0,54.0,10311.36,Severe,13327.98,0,12127.02,Comprehensive,Clean
+4767,0,0.0,1.0,0.0,5.0,11249.66,Minor,19988.57,0,19018.05,Comprehensive,Clean
+4799,0,0.0,1.0,0.0,16.0,737.09,Severe,1440.13,1,1354.94,Third-Party,Minor Offenses
+4806,1,1.0,1.0,0.0,44.0,14126.32,Minor,19554.9,1,19325.64,Third-Party,Clean
+4830,0,0.0,1.0,0.0,3.0,6311.55,Severe,8434.71,1,7260.43,Third-Party,Minor Offenses
+4845,1,0.0,1.0,0.0,9.0,13815.24,Minor,17479.69,1,14797.41,Third-Party,Clean
+4859,0,1.0,1.0,0.0,49.0,12084.48,Moderate,15756.52,1,12929.27,Comprehensive,Major Offenses
+4863,0,0.0,1.0,0.0,70.0,7860.49,Minor,11556.82,0,8622.63,Third-Party,Clean
+4893,1,0.0,1.0,0.0,10.0,9819.18,Minor,14899.76,1,12989.35,Third-Party,Minor Offenses
+4908,0,1.0,1.0,0.0,15.0,8962.79,Moderate,17631.05,1,13806.94,Comprehensive,Minor Offenses
+4967,1,0.0,1.0,0.0,7.0,4810.52,Minor,8380.74,1,8182.89,Comprehensive,Major Offenses
+4975,0,0.0,1.0,0.0,,4386.83,Moderate,6877.15,0,6017.21,Comprehensive,Minor Offenses
+4991,0,1.0,1.0,0.0,8.0,9307.88,Minor,13518.07,1,11866.87,Third-Party,Clean
+4995,1,0.0,1.0,0.0,30.0,10843.6,Severe,16253.0,0,13107.68,Comprehensive,Clean
+4998,1,1.0,1.0,0.0,10.0,11105.36,Severe,15364.56,1,10994.83,Third-Party,Major Offenses
+5011,1,1.0,0.0,0.0,,9376.38,Minor,16057.37,1,11393.08,Third-Party,Minor Offenses
+5071,1,1.0,1.0,0.0,63.0,6021.27,Minor,8993.87,0,7437.94,Third-Party,Major Offenses
+5043,0,0.0,0.0,0.0,36.0,8658.81,Minor,16447.77,1,11930.71,Comprehensive,Clean
+5060,0,1.0,1.0,0.0,17.0,1774.99,Severe,2844.08,0,2508.63,Third-Party,Major Offenses
+5081,0,1.0,1.0,0.0,70.0,8060.75,Minor,11117.54,0,10720.55,Comprehensive,Minor Offenses
+5095,0,1.0,1.0,0.0,,433.51,Severe,612.29,0,590.78,Comprehensive,Major Offenses
+5108,1,1.0,1.0,0.0,30.0,5444.36,Moderate,6829.42,1,6130.86,Comprehensive,Minor Offenses
+5369,1,1.0,1.0,0.0,6.0,4460.43,Severe,7646.0,1,5836.72,Third-Party,Minor Offenses
+5404,1,1.0,1.0,0.0,11.0,5342.02,Severe,8225.37,1,7887.3,Third-Party,Clean
+5415,0,1.0,1.0,0.0,38.0,8420.92,Moderate,14061.61,0,13581.1,Third-Party,Clean
+5419,1,0.0,1.0,0.0,8.0,5106.05,Severe,8076.88,1,6130.32,Comprehensive,Clean
+5431,1,1.0,1.0,0.0,43.0,7002.68,Minor,9249.53,0,8520.92,Third-Party,Minor Offenses
+5436,0,0.0,1.0,0.0,31.0,3619.49,Minor,5132.11,1,4033.61,Third-Party,Major Offenses
+5457,1,1.0,1.0,0.0,70.0,5948.4,Severe,7778.41,0,7317.87,Third-Party,Minor Offenses
+5500,1,0.0,1.0,0.0,60.0,2766.98,Minor,4931.76,0,4927.67,Third-Party,Clean
+5518,1,1.0,1.0,0.0,9.0,1468.63,Severe,1927.32,0,1366.48,Third-Party,Clean
+5519,0,1.0,1.0,0.0,37.0,6353.56,Minor,12267.25,1,11889.54,Comprehensive,Major Offenses
+5548,0,0.0,1.0,0.0,50.0,10371.94,Minor,13530.15,0,11998.39,Comprehensive,Clean
+5550,1,1.0,1.0,,19.0,7531.96,Severe,12580.06,0,12479.61,Comprehensive,Clean
+5557,1,1.0,1.0,0.0,13.0,5669.24,Minor,9538.13,0,8007.29,Comprehensive,Clean
+5589,0,1.0,1.0,0.0,8.0,5167.45,Severe,7905.82,0,7543.86,Third-Party,Major Offenses
+5599,0,1.0,1.0,0.0,11.0,13559.57,Minor,17335.01,0,12458.99,Comprehensive,Minor Offenses
+5670,1,1.0,1.0,0.0,,5463.31,Minor,10622.09,0,8503.87,Third-Party,Clean
+5680,0,0.0,1.0,,50.0,5962.24,Moderate,9844.05,1,7088.75,Comprehensive,Major Offenses
+5704,0,1.0,1.0,0.0,4.0,756.99,Moderate,1000.02,1,992.62,Comprehensive,Clean
+5790,1,0.0,1.0,0.0,0.0,4427.22,Severe,7154.33,0,6761.5,Comprehensive,Major Offenses
+5848,0,1.0,1.0,0.0,9.0,4429.73,Moderate,7913.81,1,7563.74,Third-Party,Clean
+5930,1,0.0,1.0,0.0,33.0,5193.33,Severe,8277.04,1,8123.0,Third-Party,Major Offenses
+5931,0,0.0,1.0,0.0,,7273.08,Moderate,11813.36,0,8570.96,Comprehensive,Clean
+5954,1,0.0,1.0,0.0,30.0,8447.48,Minor,10905.25,0,8895.19,Third-Party,Minor Offenses
+5990,0,0.0,1.0,0.0,16.0,9000.99,Severe,12354.15,0,8911.18,Comprehensive,Clean
+6016,1,1.0,1.0,0.0,,10043.55,Severe,15415.22,1,11765.48,Comprehensive,Major Offenses
+6000,1,1.0,1.0,0.0,0.0,13025.52,Minor,16353.22,0,12572.51,Comprehensive,Clean
+6016,0,1.0,1.0,0.0,39.0,9276.13,Severe,14503.4,1,12193.47,Third-Party,Minor Offenses
+6037,0,1.0,1.0,0.0,36.0,9900.63,Severe,19132.71,0,14934.39,Comprehensive,Clean
+6110,1,0.0,1.0,0.0,83.0,495.09,Moderate,855.54,1,624.8,Comprehensive,Major Offenses
+6175,0,0.0,0.0,0.0,7.0,2723.68,Severe,4317.67,0,3239.32,Comprehensive,Major Offenses
+6195,1,1.0,1.0,0.0,41.0,354.22,Minor,647.48,0,481.84,Third-Party,Minor Offenses
+6317,1,0.0,1.0,0.0,38.0,10294.13,Moderate,13125.76,1,13019.74,Comprehensive,Major Offenses
+6330,0,0.0,1.0,0.0,1.0,13149.45,Moderate,18011.6,1,16710.94,Third-Party,Clean
+6353,0,1.0,1.0,0.0,67.0,3046.33,Minor,5247.9,1,5197.14,Comprehensive,Clean
+6379,1,0.0,,0.0,10.0,12581.23,Minor,18577.17,1,15454.76,Third-Party,Clean
+6408,0,1.0,1.0,0.0,71.0,1200.18,Moderate,1675.21,1,1312.54,Comprehensive,Major Offenses
+6409,0,0.0,1.0,0.0,73.0,14647.4,Severe,18721.5,1,17588.62,Comprehensive,Clean
+6445,0,1.0,1.0,0.0,40.0,5624.08,Moderate,7356.64,0,5869.69,Third-Party,Clean
+6453,1,1.0,1.0,0.0,48.0,1621.8,Minor,2477.71,1,1956.93,Third-Party,Clean
+6461,0,0.0,1.0,0.0,7.0,7305.28,Moderate,9974.5,0,7677.89,Comprehensive,Minor Offenses
+6495,0,1.0,0.0,0.0,,3682.31,Minor,5507.14,0,4069.25,Third-Party,Major Offenses
+6531,0,0.0,0.0,0.0,50.0,4031.5,Moderate,6055.02,1,4704.38,Comprehensive,Major Offenses
+6543,0,1.0,1.0,0.0,1.0,3469.55,Severe,6492.15,0,5236.54,Comprehensive,Major Offenses
+6556,0,1.0,1.0,0.0,37.0,8690.98,Moderate,16159.01,1,14578.63,Comprehensive,Minor Offenses
+6568,0,1.0,1.0,1.0,10.0,7256.45,Moderate,11013.64,1,7916.27,Third-Party,Major Offenses
+6585,0,0.0,1.0,0.0,95.0,3815.22,Minor,6570.5,0,5014.29,Comprehensive,Minor Offenses
+6605,1,1.0,1.0,0.0,0.0,6279.02,Minor,12401.51,0,11690.99,Third-Party,Minor Offenses
+6665,0,0.0,1.0,0.0,44.0,10369.22,Minor,14464.94,1,10763.02,Comprehensive,Major Offenses
+6697,0,0.0,1.0,0.0,31.0,2964.77,Moderate,5816.17,1,4669.18,Third-Party,Clean
+6703,0,0.0,1.0,0.0,10.0,5811.53,Severe,8564.21,0,8216.48,Third-Party,Clean
+6709,0,0.0,1.0,0.0,44.0,1903.73,Minor,2876.78,0,2147.45,Comprehensive,Major Offenses
+6710,0,0.0,1.0,0.0,45.0,3188.2,Minor,4032.41,0,2922.78,Third-Party,Major Offenses
+6717,0,0.0,1.0,0.0,30.0,8892.9,Moderate,13781.8,0,11650.6,Comprehensive,Minor Offenses
+6755,1,1.0,1.0,0.0,10.0,2096.07,Minor,4038.05,1,3192.99,Comprehensive,Major Offenses
+6794,0,0.0,1.0,0.0,,7148.0,Severe,10740.69,1,9333.9,Comprehensive,Minor Offenses
+6795,0,0.0,1.0,0.0,17.0,10778.16,Severe,14326.4,1,13483.17,Comprehensive,Major Offenses
+6841,1,1.0,0.0,0.0,10.0,2064.84,Minor,2584.1,1,1915.19,Comprehensive,Clean
+6843,1,1.0,1.0,0.0,70.0,7274.06,Minor,11562.59,0,10108.13,Third-Party,Clean
+6907,0,0.0,1.0,0.0,7.0,3280.26,Moderate,5502.97,0,4686.62,Comprehensive,Major Offenses
+6914,0,1.0,1.0,1.0,10.0,14881.82,Severe,19277.07,1,14327.17,Third-Party,Minor Offenses
+6958,0,0.0,1.0,0.0,1.0,5534.23,Severe,9929.14,1,8809.13,Third-Party,Clean
+7010,1,0.0,1.0,0.0,33.0,11102.52,Minor,16216.85,1,12683.07,Comprehensive,Minor Offenses
+7011,0,1.0,1.0,0.0,0.0,6981.49,Moderate,11229.42,1,9504.02,Third-Party,Major Offenses
+7098,0,0.0,1.0,0.0,34.0,689.87,Severe,1346.54,1,975.81,Comprehensive,Major Offenses
+7033,0,0.0,1.0,0.0,43.0,7761.65,Severe,12846.45,1,10763.72,Third-Party,Clean
+7044,0,1.0,1.0,0.0,,11042.15,Moderate,19052.37,1,15088.32,Third-Party,Major Offenses
+7057,0,0.0,1.0,0.0,35.0,8633.28,Moderate,12231.43,1,11579.67,Third-Party,Clean
+7059,1,1.0,1.0,0.0,43.0,12926.25,Severe,16474.18,1,11813.53,Comprehensive,Minor Offenses
+7063,0,0.0,1.0,0.0,14.0,10297.73,Severe,17742.03,0,14647.5,Third-Party,Clean
+7085,0,1.0,1.0,0.0,10.0,3678.21,Moderate,4947.56,1,4143.73,Comprehensive,Clean
+7087,0,1.0,,,,2394.41,Severe,4634.87,0,4252.5,Third-Party,Minor Offenses
+7111,1,1.0,1.0,0.0,41.0,8211.16,Minor,12414.13,0,10828.68,Third-Party,Clean
+7175,1,1.0,1.0,0.0,0.0,4437.75,Minor,8515.06,1,7664.95,Third-Party,Clean
+7186,1,1.0,1.0,0.0,47.0,13167.84,Moderate,16877.3,1,15748.46,Third-Party,Major Offenses
+7363,0,0.0,0.0,0.0,31.0,13175.12,Moderate,18050.45,0,17304.26,Comprehensive,Minor Offenses
+7373,0,0.0,1.0,0.0,39.0,5154.87,Moderate,7391.72,0,5870.23,Comprehensive,Clean
+7397,1,0.0,1.0,0.0,,3824.74,Minor,5118.98,1,4409.52,Third-Party,Minor Offenses
+7403,1,0.0,1.0,0.0,,10913.88,Severe,15720.25,0,14966.19,Third-Party,Minor Offenses
+7406,0,1.0,1.0,0.0,39.0,4632.39,Minor,5858.72,1,5840.18,Comprehensive,Clean
+7407,1,1.0,1.0,0.0,60.0,11813.36,Severe,16540.98,1,15992.74,Comprehensive,Major Offenses
+7488,0,0.0,,0.0,49.0,6812.26,Minor,8762.9,1,7110.57,Comprehensive,Minor Offenses
+7539,1,1.0,1.0,0.0,55.0,8855.67,Severe,13517.22,0,10253.49,Comprehensive,Clean
+7550,1,1.0,0.0,0.0,33.0,1264.45,Minor,2362.94,0,2000.98,Third-Party,Minor Offenses
+7635,0,1.0,1.0,0.0,41.0,8339.48,Moderate,12665.26,1,11683.61,Third-Party,Major Offenses
+7707,0,1.0,1.0,0.0,33.0,5009.07,Minor,9309.47,0,7892.3,Comprehensive,Major Offenses
+7709,1,1.0,1.0,0.0,39.0,8091.55,Severe,11938.87,0,10087.8,Comprehensive,Major Offenses
+7716,0,0.0,1.0,0.0,,2434.75,Minor,3776.28,0,3593.01,Comprehensive,Clean
+7719,0,0.0,1.0,0.0,43.0,10211.65,Minor,14869.04,0,12020.45,Comprehensive,Clean
+7731,1,0.0,0.0,0.0,48.0,8714.49,Minor,17324.54,0,16595.84,Comprehensive,Major Offenses
+7737,0,1.0,1.0,0.0,48.0,2639.48,Moderate,4726.43,0,3885.32,Comprehensive,Clean
+7790,1,1.0,1.0,0.0,19.0,1532.02,Minor,2366.43,0,1889.52,Third-Party,Major Offenses
+7831,0,1.0,1.0,0.0,9.0,754.49,Moderate,960.95,1,803.54,Third-Party,Clean
+7840,0,1.0,,,34.0,8007.42,Moderate,13018.44,0,12090.67,Third-Party,Major Offenses
+7840,1,0.0,1.0,0.0,16.0,7739.98,Minor,12338.33,0,9103.23,Comprehensive,Minor Offenses
+7885,1,1.0,0.0,0.0,19.0,7973.23,Minor,11160.6,0,8470.07,Comprehensive,Major Offenses
+7933,1,0.0,,,,3421.33,Minor,5022.97,0,4949.8,Comprehensive,Major Offenses
+7985,1,1.0,1.0,0.0,80.0,4789.76,Severe,8122.67,0,6113.51,Third-Party,Clean
+7994,1,1.0,1.0,0.0,43.0,7536.46,Minor,12092.29,0,10524.14,Comprehensive,Clean
+8007,0,0.0,1.0,0.0,13.0,5758.78,Moderate,10186.95,0,8901.3,Comprehensive,Clean
+8063,0,1.0,0.0,0.0,11.0,15608.01,Minor,19761.82,0,16736.04,Third-Party,Clean
+8065,1,0.0,1.0,0.0,5.0,1704.15,Severe,3160.58,1,2823.74,Comprehensive,Clean
+8070,1,1.0,1.0,0.0,15.0,8595.55,Minor,14055.32,0,10807.81,Third-Party,Clean
+8089,1,1.0,1.0,0.0,50.0,4257.1,Severe,8384.22,0,7259.05,Third-Party,Minor Offenses
+8041,0,1.0,1.0,0.0,,5013.76,Severe,8849.89,0,7183.03,Comprehensive,Major Offenses
+8045,0,0.0,1.0,0.0,19.0,10640.03,Minor,14493.16,0,13022.11,Third-Party,Major Offenses
+8057,0,0.0,1.0,0.0,40.0,7846.34,Moderate,14002.5,1,10394.99,Comprehensive,Major Offenses
+8075,1,1.0,1.0,0.0,11.0,10391.03,Severe,19829.49,1,17276.71,Third-Party,Minor Offenses
+8077,1,0.0,1.0,0.0,,1929.38,Minor,3003.69,1,2269.53,Comprehensive,Major Offenses
+8104,1,0.0,1.0,0.0,60.0,1272.64,Minor,2530.14,1,1982.6,Third-Party,Minor Offenses
+8105,0,1.0,1.0,0.0,43.0,7684.21,Moderate,14624.61,1,11196.79,Comprehensive,Minor Offenses
+8133,0,1.0,1.0,0.0,41.0,8743.07,Severe,11778.54,1,8891.05,Third-Party,Minor Offenses
+8155,0,0.0,1.0,0.0,49.0,4276.11,Severe,5846.13,1,5540.46,Third-Party,Major Offenses
+8170,0,1.0,1.0,0.0,40.0,1586.79,Minor,2048.68,1,1609.67,Third-Party,Minor Offenses
+8198,1,1.0,1.0,0.0,0.0,1641.55,Minor,2170.34,1,2122.89,Comprehensive,Major Offenses
+8308,0,1.0,1.0,0.0,10.0,12644.54,Moderate,17936.72,1,17774.89,Comprehensive,Major Offenses
+8334,1,0.0,1.0,0.0,5.0,2187.29,Moderate,4241.41,1,3695.87,Third-Party,Clean
+8353,1,1.0,1.0,0.0,,5001.24,Severe,6805.75,1,5055.99,Comprehensive,Clean
+8360,1,1.0,1.0,0.0,45.0,3707.82,Severe,4919.8,1,3996.67,Third-Party,Minor Offenses
+8384,0,1.0,1.0,0.0,37.0,5490.55,Minor,7422.43,1,6972.03,Comprehensive,Minor Offenses
+8387,1,0.0,1.0,0.0,57.0,1209.66,Severe,1853.76,1,1501.95,Third-Party,Major Offenses
+8396,0,0.0,1.0,0.0,15.0,6052.98,Moderate,10621.67,1,7712.45,Comprehensive,Minor Offenses
+8400,1,1.0,1.0,0.0,40.0,1370.37,Moderate,1818.44,0,1576.65,Third-Party,Minor Offenses
+8483,0,1.0,1.0,0.0,9.0,11567.19,Minor,16106.95,1,15358.56,Third-Party,Major Offenses
+8500,0,0.0,1.0,0.0,,4016.72,Moderate,5057.39,0,4747.77,Third-Party,Minor Offenses
+8513,1,1.0,1.0,0.0,58.0,6030.31,Moderate,11030.23,1,8300.66,Third-Party,Minor Offenses
+8553,1,0.0,1.0,0.0,13.0,10026.45,Moderate,17661.54,1,15927.7,Comprehensive,Major Offenses
+8563,0,1.0,1.0,0.0,30.0,7434.27,Moderate,13192.11,0,10107.15,Third-Party,Major Offenses
+8576,0,0.0,1.0,0.0,18.0,8036.2,Minor,10892.68,1,8337.94,Comprehensive,Clean
+8609,0,1.0,1.0,0.0,55.0,3794.92,Minor,6824.51,0,6566.69,Comprehensive,Major Offenses
+8644,1,1.0,1.0,0.0,33.0,3636.63,Severe,6993.54,0,5419.3,Third-Party,Clean
+8647,0,1.0,1.0,0.0,17.0,10838.15,Moderate,13555.0,0,10559.0,Comprehensive,Minor Offenses
+8670,0,0.0,1.0,0.0,34.0,10090.91,Severe,19885.72,1,13923.9,Comprehensive,Major Offenses
+8674,0,0.0,1.0,0.0,,10062.08,Minor,13405.86,1,12885.72,Comprehensive,Major Offenses
+8683,0,0.0,1.0,0.0,17.0,6935.4,Minor,11376.78,1,10668.9,Third-Party,Major Offenses
+8698,0,1.0,1.0,0.0,7.0,11097.4,Minor,14747.68,0,13098.87,Comprehensive,Minor Offenses
+8765,1,0.0,1.0,0.0,44.0,6378.32,Minor,9571.51,0,8854.41,Comprehensive,Clean
+8773,1,0.0,1.0,0.0,36.0,1288.86,Minor,1672.78,1,1247.25,Third-Party,Minor Offenses
+8774,1,0.0,1.0,0.0,10.0,8917.98,Minor,11464.79,1,9601.73,Third-Party,Minor Offenses
+8783,0,0.0,1.0,0.0,9.0,9639.18,Minor,19173.69,1,15441.83,Comprehensive,Major Offenses
+8809,1,0.0,1.0,0.0,11.0,2047.85,Moderate,3918.41,1,2853.12,Third-Party,Clean
+8811,1,0.0,1.0,0.0,0.0,8025.68,Severe,13955.1,1,11803.77,Comprehensive,Minor Offenses
+8814,0,0.0,1.0,0.0,30.0,3096.26,Minor,4418.21,0,4313.15,Comprehensive,Major Offenses
+8847,1,0.0,1.0,0.0,,8391.93,Moderate,10948.64,0,7795.63,Comprehensive,Minor Offenses
+8903,1,0.0,0.0,0.0,11.0,1521.71,Moderate,2385.19,0,1878.19,Third-Party,Minor Offenses
+8950,1,1.0,1.0,0.0,17.0,6331.33,Severe,9282.23,1,7075.49,Comprehensive,Major Offenses
+8960,0,0.0,1.0,0.0,0.0,8484.7,Minor,15245.18,0,11760.8,Third-Party,Major Offenses
+8983,0,0.0,1.0,0.0,13.0,5396.3,Severe,7277.64,0,7077.73,Third-Party,Clean
+8985,1,1.0,1.0,0.0,88.0,10640.64,Minor,13465.78,0,11316.92,Comprehensive,Minor Offenses
+9041,0,0.0,0.0,0.0,78.0,9295.82,Moderate,16011.27,0,13447.7,Third-Party,Major Offenses
+9090,0,0.0,1.0,0.0,6.0,12048.14,Moderate,18579.97,0,17245.42,Third-Party,Major Offenses
+9104,0,1.0,1.0,0.0,70.0,2668.89,Moderate,5075.52,1,3788.1,Third-Party,Clean
+9101,0,1.0,1.0,0.0,30.0,5533.34,Moderate,8286.66,0,7012.0,Third-Party,Clean
+9118,1,1.0,1.0,0.0,8.0,2259.77,Severe,3472.11,1,2878.36,Third-Party,Major Offenses
+9131,0,1.0,1.0,0.0,40.0,10786.98,Minor,19853.43,1,17452.62,Comprehensive,Clean
+9160,0,1.0,1.0,0.0,40.0,11751.88,Minor,18576.52,1,18574.06,Third-Party,Major Offenses
+9163,1,0.0,1.0,0.0,8.0,6620.05,Severe,11029.16,1,10266.32,Comprehensive,Minor Offenses
+9164,1,0.0,1.0,0.0,69.0,11108.58,Minor,16919.65,1,13863.28,Comprehensive,Clean
+9193,1,1.0,1.0,0.0,,7202.03,Moderate,10658.68,0,10107.26,Comprehensive,Minor Offenses
+9330,0,0.0,1.0,0.0,38.0,6362.23,Minor,12659.92,0,9510.29,Comprehensive,Minor Offenses
+9404,1,0.0,1.0,0.0,36.0,1629.89,Moderate,2237.93,1,1587.0,Comprehensive,Minor Offenses
+9411,0,1.0,1.0,0.0,4.0,10871.17,Severe,15227.77,1,11593.43,Comprehensive,Major Offenses
+9413,0,1.0,1.0,0.0,,1823.81,Minor,2990.41,1,2398.68,Third-Party,Minor Offenses
+9415,1,1.0,1.0,0.0,39.0,8567.91,Severe,16608.32,0,14169.79,Third-Party,Minor Offenses
+9430,1,0.0,1.0,0.0,15.0,11441.73,Minor,15749.55,1,13931.09,Third-Party,Minor Offenses
+9477,1,1.0,1.0,0.0,,11263.84,Moderate,14320.52,0,13936.47,Comprehensive,Major Offenses
+9480,1,0.0,1.0,0.0,80.0,689.39,Severe,1205.13,1,1027.92,Third-Party,Minor Offenses
+9578,0,1.0,1.0,0.0,53.0,3827.73,Minor,6411.0,0,5451.8,Third-Party,Minor Offenses
+9604,0,0.0,1.0,0.0,39.0,3125.85,Moderate,5630.7,1,4026.36,Third-Party,Clean
+9609,0,0.0,1.0,0.0,40.0,5063.36,Severe,7522.66,0,5344.65,Comprehensive,Major Offenses
+9617,0,0.0,0.0,0.0,30.0,1207.13,Severe,2209.03,1,1911.58,Third-Party,Minor Offenses
+9630,0,1.0,1.0,0.0,38.0,11391.14,Minor,18770.68,0,15606.95,Comprehensive,Clean
+9686,0,0.0,1.0,0.0,0.0,8012.26,Minor,11299.14,0,10754.0,Third-Party,Major Offenses
+9691,0,0.0,0.0,0.0,45.0,4313.98,Minor,6457.72,0,4831.69,Comprehensive,Major Offenses
+9795,1,0.0,1.0,0.0,60.0,5076.04,Moderate,8241.14,0,5830.54,Comprehensive,Major Offenses
+9796,0,1.0,1.0,0.0,9.0,5772.69,Minor,9220.45,0,7696.42,Comprehensive,Major Offenses
+9816,0,0.0,1.0,1.0,30.0,8165.08,Severe,12211.59,0,9418.11,Third-Party,Major Offenses
+9851,1,0.0,1.0,0.0,0.0,5296.45,Severe,10555.75,0,7546.14,Third-Party,Major Offenses
+9875,0,1.0,0.0,0.0,18.0,9648.11,Minor,18428.14,1,16905.6,Comprehensive,Minor Offenses
+9877,1,1.0,1.0,0.0,,7789.61,Minor,10190.79,1,7474.72,Third-Party,Minor Offenses
+9881,1,1.0,1.0,0.0,40.0,10387.24,Severe,19847.08,1,17514.97,Comprehensive,Minor Offenses
+9885,1,0.0,1.0,0.0,,12177.89,Moderate,17102.79,1,13413.97,Comprehensive,Minor Offenses
+9895,1,1.0,1.0,0.0,43.0,3543.24,Minor,4565.96,1,3433.82,Third-Party,Clean
+9900,1,0.0,0.0,0.0,,10837.5,Minor,18646.61,0,15176.95,Third-Party,Minor Offenses
+9903,0,0.0,1.0,0.0,,1692.35,Severe,2769.14,0,2604.19,Third-Party,Major Offenses
+9933,1,1.0,1.0,0.0,6.0,11026.1,Minor,16440.27,0,13442.03,Comprehensive,Minor Offenses
+9964,1,1.0,1.0,0.0,19.0,6056.58,Moderate,7922.15,0,7329.82,Comprehensive,Minor Offenses
+9993,0,0.0,1.0,,,13789.3,Severe,17620.5,0,12997.69,Third-Party,Major Offenses
+9998,1,1.0,1.0,0.0,6.0,12580.09,Minor,17427.11,1,16239.13,Comprehensive,Minor Offenses
+9999,1,1.0,1.0,0.0,38.0,8529.15,Severe,16215.55,1,12503.49,Third-Party,Minor Offenses
+10000,1,1.0,1.0,0.0,,11145.78,Minor,15905.59,1,14366.21,Comprehensive,Minor Offenses
+10000,0,1.0,1.0,0.0,40.0,4013.48,Minor,6441.24,1,5602.17,Third-Party,Clean
+10050,1,0.0,1.0,0.0,3.0,1332.39,Minor,2077.93,0,2033.76,Third-Party,Minor Offenses
+10070,0,1.0,1.0,0.0,9.0,4302.29,Moderate,8358.11,0,6821.86,Comprehensive,Major Offenses
+10035,1,1.0,1.0,0.0,,2164.48,Moderate,3883.73,0,2795.7,Third-Party,Major Offenses
+10040,1,1.0,1.0,0.0,,10358.16,Severe,14051.55,1,9916.83,Third-Party,Minor Offenses
+10048,0,0.0,1.0,0.0,15.0,4611.69,Minor,7248.94,0,6872.41,Comprehensive,Minor Offenses
+10067,1,1.0,1.0,0.0,19.0,11529.13,Minor,19524.4,1,16740.62,Third-Party,Minor Offenses
+10090,0,0.0,1.0,0.0,50.0,7997.03,Moderate,12998.96,0,12122.48,Comprehensive,Major Offenses
+10100,1,0.0,1.0,0.0,,12508.3,Minor,16538.37,0,12739.96,Third-Party,Major Offenses
+10164,1,0.0,1.0,0.0,,2235.14,Moderate,3084.23,1,2478.26,Comprehensive,Clean
+10178,0,0.0,1.0,0.0,37.0,10068.72,Minor,17309.28,0,12272.82,Third-Party,Clean
+10300,0,0.0,0.0,0.0,,9898.8,Severe,18493.77,0,18280.12,Third-Party,Clean
+10470,1,1.0,1.0,0.0,10.0,5754.68,Minor,9997.71,1,9001.54,Third-Party,Major Offenses
+10487,0,0.0,1.0,0.0,6.0,9564.61,Minor,12321.93,0,12075.02,Third-Party,Clean
+10613,1,1.0,1.0,0.0,33.0,10396.24,Moderate,15413.79,1,12017.34,Comprehensive,Minor Offenses
+10677,1,0.0,0.0,0.0,49.0,2580.34,Minor,3909.35,0,3453.67,Comprehensive,Minor Offenses
+10687,0,1.0,1.0,0.0,9.0,6992.88,Minor,10300.04,0,9306.6,Comprehensive,Major Offenses
+10694,1,1.0,1.0,0.0,69.0,5045.51,Moderate,8273.93,0,6579.97,Comprehensive,Clean
+10695,1,1.0,1.0,0.0,8.0,2489.33,Severe,3354.29,0,3201.44,Comprehensive,Minor Offenses
+10707,0,1.0,1.0,0.0,17.0,5037.06,Severe,7666.92,0,7545.39,Comprehensive,Major Offenses
+10708,1,0.0,0.0,0.0,41.0,978.75,Moderate,1829.36,0,1766.17,Comprehensive,Clean
+10755,1,1.0,1.0,0.0,8.0,540.51,Moderate,1003.33,0,924.79,Third-Party,Minor Offenses
+10790,0,1.0,1.0,0.0,11.0,2072.91,Moderate,3135.74,0,2456.04,Third-Party,Clean
+10850,0,0.0,0.0,0.0,5.0,15057.7,Moderate,19280.74,1,15125.45,Third-Party,Major Offenses
+10864,0,1.0,1.0,0.0,47.0,6645.44,Moderate,11215.83,1,11092.55,Third-Party,Clean
+10894,1,1.0,1.0,,,14710.16,Severe,19333.53,0,13593.12,Comprehensive,Major Offenses
+10900,0,1.0,1.0,0.0,50.0,6514.72,Severe,8933.71,0,8172.69,Comprehensive,Clean
+10907,0,0.0,1.0,0.0,16.0,3779.42,Moderate,6580.41,1,6000.5,Comprehensive,Minor Offenses
+10908,0,1.0,1.0,0.0,,5297.94,Minor,10369.77,0,9195.98,Third-Party,Major Offenses
+10940,1,0.0,1.0,0.0,0.0,4812.38,Moderate,9070.48,0,9043.56,Comprehensive,Major Offenses
+10945,0,1.0,,,47.0,1839.81,Minor,2560.46,1,2031.89,Third-Party,Major Offenses
+10975,1,1.0,1.0,0.0,38.0,7276.53,Moderate,12996.11,0,10422.77,Comprehensive,Clean
+10990,1,1.0,1.0,0.0,16.0,2881.28,Moderate,4712.74,0,3410.52,Comprehensive,Clean
+10006,0,0.0,1.0,0.0,8.0,8184.69,Severe,12581.97,1,10478.76,Comprehensive,Minor Offenses
+10084,0,0.0,1.0,0.0,73.0,9457.73,Minor,13178.92,0,10257.35,Comprehensive,Major Offenses
+10003,0,0.0,0.0,0.0,40.0,1849.93,Minor,3464.48,0,2782.03,Third-Party,Major Offenses
+10001,0,1.0,1.0,0.0,41.0,1054.96,Severe,1696.32,1,1612.13,Third-Party,Clean
+10060,1,0.0,1.0,0.0,48.0,10150.73,Severe,15724.85,0,15420.5,Comprehensive,Clean
+10105,0,1.0,1.0,0.0,7.0,6268.91,Severe,9466.11,1,7153.73,Third-Party,Minor Offenses
+10180,0,1.0,1.0,1.0,0.0,1218.3,Severe,1634.19,0,1326.56,Comprehensive,Minor Offenses
+10190,1,0.0,1.0,0.0,40.0,10974.86,Minor,19899.89,0,19473.82,Comprehensive,Clean
+10300,1,1.0,1.0,0.0,16.0,1207.59,Minor,1626.72,1,1168.87,Comprehensive,Major Offenses
+10354,0,1.0,1.0,0.0,44.0,9947.74,Moderate,14053.19,1,10226.62,Comprehensive,Minor Offenses
+10369,0,0.0,1.0,0.0,,13123.02,Moderate,19681.74,0,14738.42,Third-Party,Clean
+10376,0,0.0,1.0,0.0,,3665.72,Severe,5164.01,1,4536.91,Comprehensive,Clean
+10379,1,1.0,1.0,0.0,17.0,2041.6,Severe,3273.86,1,2439.49,Comprehensive,Major Offenses
+10404,0,1.0,1.0,0.0,64.0,1552.54,Severe,2867.01,0,2839.55,Third-Party,Clean
+10416,0,0.0,0.0,,13.0,4487.97,Moderate,6413.87,0,5349.26,Comprehensive,Clean
+10440,0,0.0,1.0,0.0,30.0,1624.04,Moderate,2470.39,0,2100.96,Third-Party,Minor Offenses
+10455,1,1.0,1.0,0.0,6.0,9683.4,Moderate,13997.15,1,10833.76,Comprehensive,Clean
+10504,0,1.0,1.0,0.0,34.0,1031.21,Moderate,1714.69,1,1442.55,Comprehensive,Clean
+10510,1,0.0,0.0,0.0,37.0,8055.47,Moderate,10433.73,1,9375.48,Comprehensive,Minor Offenses
+10533,1,1.0,1.0,0.0,43.0,13480.66,Moderate,19935.59,1,18447.46,Comprehensive,Major Offenses
+10537,0,1.0,1.0,0.0,10.0,8605.68,Moderate,16372.42,0,15163.49,Comprehensive,Major Offenses
+10561,0,1.0,1.0,0.0,48.0,7934.72,Severe,12496.78,1,10914.28,Comprehensive,Minor Offenses
+10570,1,1.0,1.0,0.0,30.0,4704.5,Severe,6471.95,0,6286.26,Third-Party,Minor Offenses
+10631,0,1.0,1.0,,40.0,9350.53,Severe,12665.97,1,11972.16,Comprehensive,Major Offenses
+10633,0,1.0,1.0,0.0,44.0,6987.78,Severe,10777.31,0,9991.8,Third-Party,Major Offenses
+10635,0,0.0,0.0,0.0,8.0,6768.77,Moderate,8808.63,0,6312.98,Third-Party,Major Offenses
+10681,1,0.0,1.0,0.0,,1769.25,Minor,3048.85,0,2140.49,Comprehensive,Major Offenses
+10750,0,0.0,1.0,0.0,6.0,11085.6,Moderate,17788.78,1,13585.9,Third-Party,Major Offenses
+10766,0,1.0,1.0,0.0,45.0,7134.61,Minor,9270.8,0,8334.98,Comprehensive,Minor Offenses
+10779,1,0.0,1.0,0.0,7.0,3302.43,Severe,4295.14,0,3536.44,Third-Party,Clean
+10809,1,1.0,1.0,0.0,,5413.75,Moderate,7671.31,1,6296.01,Comprehensive,Major Offenses
+10839,0,0.0,1.0,0.0,49.0,6497.63,Severe,8575.53,0,8278.61,Third-Party,Major Offenses
+10840,1,1.0,,0.0,11.0,8761.57,Moderate,16636.99,1,16115.73,Third-Party,Clean
+10918,0,0.0,1.0,1.0,11.0,11244.74,Severe,14805.48,1,14402.07,Comprehensive,Clean
+10941,0,0.0,1.0,0.0,10.0,9241.75,Minor,15501.45,0,12310.68,Third-Party,Clean
+10970,0,0.0,1.0,0.0,30.0,395.81,Minor,715.11,0,648.83,Comprehensive,Clean
+10976,1,1.0,1.0,0.0,,4926.15,Minor,8615.0,1,6732.54,Comprehensive,Clean
+11000,1,0.0,,,31.0,6182.74,Moderate,9886.21,0,7485.67,Comprehensive,Clean
+11001,1,1.0,1.0,0.0,4.0,503.01,Minor,874.25,1,660.4,Comprehensive,Minor Offenses
+11057,0,0.0,1.0,0.0,15.0,3318.5,Moderate,5566.36,1,4467.74,Comprehensive,Clean
+11008,0,0.0,1.0,0.0,84.0,8283.41,Minor,15325.65,1,12704.77,Third-Party,Clean
+11004,1,0.0,1.0,0.0,,1868.81,Minor,3173.64,0,3012.69,Third-Party,Minor Offenses
+11036,1,1.0,1.0,0.0,11.0,7347.26,Moderate,10938.55,1,8050.42,Third-Party,Clean
+11059,0,1.0,1.0,0.0,48.0,2970.76,Moderate,4696.44,0,4322.97,Comprehensive,Major Offenses
+11079,1,0.0,1.0,0.0,40.0,444.77,Minor,736.36,0,632.85,Third-Party,Major Offenses
+11089,0,0.0,1.0,0.0,11.0,3766.95,Moderate,5203.43,0,4091.89,Third-Party,Clean
+11090,1,1.0,1.0,,35.0,14999.72,Minor,19529.54,0,16558.04,Third-Party,Minor Offenses
+11099,0,1.0,0.0,0.0,55.0,11727.08,Moderate,16129.97,1,12742.4,Third-Party,Major Offenses
+11186,0,1.0,1.0,0.0,,11519.36,Severe,19211.74,0,16883.75,Third-Party,Minor Offenses
+11308,0,0.0,1.0,0.0,33.0,7242.84,Severe,10013.15,1,8312.45,Comprehensive,Major Offenses
+11335,1,1.0,1.0,0.0,14.0,1440.29,Severe,2639.86,1,1978.1,Comprehensive,Clean
+11360,1,1.0,1.0,0.0,7.0,6029.9,Severe,11185.21,0,8220.85,Third-Party,Minor Offenses
+11376,1,1.0,1.0,0.0,11.0,5650.74,Severe,9360.36,1,8087.43,Comprehensive,Minor Offenses
+11446,1,1.0,1.0,0.0,30.0,12593.27,Minor,16964.96,1,16468.29,Comprehensive,Minor Offenses
+11461,0,1.0,1.0,0.0,33.0,1384.61,Severe,2412.61,0,1937.78,Third-Party,Major Offenses
+11537,1,0.0,1.0,0.0,,5200.5,Severe,10020.7,1,9218.04,Third-Party,Major Offenses
+11581,1,0.0,1.0,0.0,53.0,1848.34,Severe,3425.95,1,3075.13,Comprehensive,Major Offenses
+11654,1,1.0,1.0,0.0,45.0,5175.46,Severe,6831.18,1,6690.91,Third-Party,Clean
+11687,0,0.0,1.0,0.0,33.0,10268.15,Moderate,14878.46,1,14079.4,Comprehensive,Major Offenses
+11704,1,0.0,1.0,0.0,,5634.25,Minor,9782.35,0,8510.46,Comprehensive,Clean
+11700,0,1.0,1.0,0.0,40.0,5219.27,Severe,7829.82,1,7024.2,Third-Party,Minor Offenses
+11718,0,1.0,1.0,0.0,,5392.77,Severe,8192.29,1,7942.56,Comprehensive,Minor Offenses
+11730,0,1.0,0.0,0.0,11.0,6589.58,Severe,9459.21,1,7755.19,Comprehensive,Clean
+11766,1,0.0,,,38.0,9009.77,Minor,15807.82,1,12615.25,Comprehensive,Major Offenses
+11796,1,0.0,1.0,0.0,37.0,13588.54,Moderate,17895.65,0,12585.0,Third-Party,Clean
+11838,0,0.0,1.0,0.0,0.0,11339.89,Minor,19129.03,1,18133.66,Third-Party,Minor Offenses
+11873,0,1.0,0.0,0.0,3.0,11221.79,Moderate,15844.62,0,14898.6,Third-Party,Minor Offenses
+11886,0,0.0,,,1.0,3357.39,Severe,6650.43,1,4863.7,Third-Party,Clean
+11900,0,0.0,0.0,0.0,,8515.38,Severe,13918.63,0,12151.76,Comprehensive,Major Offenses
+11913,1,1.0,1.0,0.0,6.0,5469.76,Minor,9033.26,0,7580.66,Third-Party,Major Offenses
+11933,1,1.0,1.0,,53.0,3624.26,Minor,5466.08,0,4020.92,Third-Party,Clean
+11941,0,1.0,1.0,0.0,43.0,8817.21,Moderate,16897.0,0,16798.5,Third-Party,Clean
+11949,0,1.0,1.0,0.0,11.0,920.79,Moderate,1249.31,0,954.98,Third-Party,Major Offenses
+11961,0,0.0,1.0,0.0,30.0,10223.71,Minor,18084.36,1,13023.82,Comprehensive,Minor Offenses
+13006,1,0.0,1.0,0.0,77.0,6678.72,Moderate,9498.81,1,8344.27,Comprehensive,Clean
+13010,1,1.0,1.0,0.0,16.0,9577.27,Minor,12925.43,1,11912.85,Comprehensive,Major Offenses
+13069,1,1.0,1.0,0.0,0.0,8930.26,Moderate,13357.4,0,9480.19,Third-Party,Major Offenses
+13071,1,0.0,0.0,0.0,40.0,12968.12,Minor,17954.8,1,16116.5,Third-Party,Minor Offenses
+13091,1,1.0,0.0,0.0,9.0,9021.92,Minor,12915.06,0,11102.92,Comprehensive,Minor Offenses
+13098,0,1.0,1.0,0.0,6.0,7566.07,Minor,12471.7,0,9116.56,Third-Party,Minor Offenses
+13000,0,0.0,1.0,0.0,50.0,1336.57,Moderate,1799.71,1,1352.94,Third-Party,Minor Offenses
+13004,1,0.0,1.0,0.0,,6242.42,Moderate,10608.96,1,9233.96,Comprehensive,Minor Offenses
+13019,1,0.0,1.0,0.0,16.0,2301.64,Moderate,3428.3,0,2704.61,Comprehensive,Clean
+13048,0,0.0,1.0,0.0,16.0,10767.43,Minor,14879.96,0,14604.6,Third-Party,Major Offenses
+13050,0,1.0,1.0,0.0,70.0,6436.55,Moderate,10488.33,1,9918.0,Third-Party,Clean
+13080,1,1.0,1.0,0.0,70.0,8132.45,Moderate,13764.44,1,13696.58,Third-Party,Clean
+13090,0,0.0,1.0,0.0,8.0,837.19,Minor,1312.62,1,1021.09,Comprehensive,Clean
+13100,0,1.0,0.0,0.0,10.0,1605.15,Severe,2153.44,1,2133.88,Comprehensive,Clean
+13153,1,1.0,1.0,0.0,9.0,11270.47,Minor,14468.31,0,11999.58,Comprehensive,Clean
+13179,1,,1.0,0.0,50.0,1264.44,Moderate,1905.64,1,1532.62,Comprehensive,Minor Offenses
+13308,1,0.0,1.0,0.0,44.0,1319.71,Minor,1889.51,1,1351.2,Third-Party,Minor Offenses
+13339,1,1.0,1.0,0.0,34.0,567.54,Severe,736.12,1,526.94,Comprehensive,Major Offenses
+13354,1,0.0,1.0,0.0,,10142.09,Minor,19151.78,0,17382.22,Comprehensive,Clean
+13380,0,0.0,1.0,0.0,,8476.8,Moderate,14881.41,0,12461.38,Third-Party,Major Offenses
+13385,0,0.0,1.0,0.0,39.0,5265.49,Severe,7388.4,0,5673.97,Third-Party,Minor Offenses
+13404,1,1.0,1.0,0.0,6.0,4693.76,Moderate,6282.44,0,5554.88,Third-Party,Minor Offenses
+13430,1,1.0,1.0,0.0,,5541.44,Severe,7319.21,1,5678.66,Comprehensive,Minor Offenses
+13470,1,1.0,0.0,0.0,10.0,9746.29,Severe,15605.74,0,13628.33,Third-Party,Clean
+13471,0,0.0,1.0,0.0,14.0,7057.42,Minor,13396.73,1,10821.38,Third-Party,Clean
+13500,0,0.0,1.0,0.0,34.0,2595.61,Minor,4111.31,1,3893.68,Comprehensive,Minor Offenses
+13513,1,1.0,0.0,0.0,43.0,2217.19,Moderate,3895.13,1,3685.61,Comprehensive,Major Offenses
+13514,0,0.0,1.0,0.0,10.0,1420.66,Minor,2418.72,1,2039.48,Third-Party,Major Offenses
+13543,0,1.0,0.0,0.0,19.0,9786.88,Minor,13375.9,0,10770.89,Comprehensive,Minor Offenses
+13548,1,0.0,1.0,0.0,56.0,8051.69,Severe,15405.27,0,12459.29,Third-Party,Major Offenses
+13551,0,0.0,1.0,0.0,44.0,4241.53,Minor,5668.41,0,5338.02,Third-Party,Minor Offenses
+13559,1,1.0,0.0,0.0,47.0,570.77,Severe,908.43,1,725.34,Comprehensive,Major Offenses
+13570,0,1.0,1.0,0.0,6.0,1427.12,Severe,2102.35,1,1603.5,Third-Party,Minor Offenses
+13658,0,,1.0,0.0,17.0,10207.69,Severe,19373.27,1,14053.5,Comprehensive,Major Offenses
+13675,0,1.0,1.0,0.0,10.0,3764.26,Moderate,6261.17,1,5259.43,Comprehensive,Clean
+13681,1,1.0,1.0,0.0,,8167.03,Moderate,15499.85,1,13091.79,Comprehensive,Minor Offenses
+13697,0,1.0,1.0,0.0,51.0,9998.45,Moderate,12680.94,0,12075.71,Third-Party,Minor Offenses
+13748,0,1.0,1.0,0.0,30.0,5898.7,Severe,7947.82,1,6090.98,Comprehensive,Major Offenses
+13764,1,1.0,1.0,0.0,18.0,2877.46,Moderate,4510.9,0,3673.21,Comprehensive,Minor Offenses
+13788,1,1.0,1.0,0.0,7.0,1625.84,Moderate,2867.04,1,2702.25,Third-Party,Minor Offenses
+13795,0,1.0,1.0,0.0,33.0,9744.8,Minor,12492.75,1,11831.72,Third-Party,Minor Offenses
+13801,1,1.0,1.0,0.0,50.0,9415.95,Moderate,15605.36,0,12724.35,Third-Party,Clean
+13879,1,1.0,1.0,0.0,18.0,7158.62,Moderate,13056.13,0,10937.61,Third-Party,Clean
+13893,1,1.0,0.0,0.0,46.0,7252.01,Severe,10840.89,1,8574.99,Comprehensive,Major Offenses
+13900,1,1.0,1.0,0.0,6.0,1032.21,Severe,1318.05,1,1291.38,Comprehensive,Clean
+13911,1,0.0,1.0,0.0,,9715.04,Severe,19385.53,1,14259.86,Comprehensive,Major Offenses
+13933,0,0.0,1.0,0.0,44.0,9185.82,Severe,16074.93,1,15755.44,Third-Party,Clean
+13960,1,1.0,1.0,0.0,40.0,4853.35,Severe,6210.03,0,5621.07,Third-Party,Major Offenses
+13963,1,1.0,1.0,0.0,10.0,10811.18,Severe,19609.42,1,16853.74,Comprehensive,Clean
+13984,1,1.0,1.0,0.0,34.0,6534.06,Moderate,12236.69,0,8685.57,Third-Party,Clean
+14061,1,1.0,1.0,0.0,,7956.87,Severe,11857.24,1,9991.85,Third-Party,Major Offenses
+14090,0,1.0,1.0,0.0,9.0,11444.62,Severe,15087.43,0,12406.76,Comprehensive,Minor Offenses
+14006,1,1.0,1.0,0.0,31.0,10502.05,Minor,16329.51,0,12220.44,Comprehensive,Minor Offenses
+14118,1,0.0,1.0,0.0,53.0,10619.37,Moderate,13301.33,1,11930.27,Third-Party,Clean
+14133,0,0.0,1.0,0.0,,2109.76,Moderate,2997.87,0,2971.92,Third-Party,Major Offenses
+14150,0,1.0,1.0,0.0,8.0,3705.81,Moderate,7096.22,1,6164.18,Third-Party,Minor Offenses
+14158,1,1.0,1.0,0.0,,14838.11,Severe,18597.63,0,17006.16,Comprehensive,Major Offenses
+14195,0,0.0,1.0,0.0,54.0,3037.16,Severe,4880.0,1,3516.21,Comprehensive,Minor Offenses
+14306,1,0.0,1.0,0.0,18.0,4547.47,Severe,7757.26,0,6402.07,Comprehensive,Major Offenses
+14300,1,0.0,1.0,0.0,,5956.56,Minor,8925.5,1,6559.42,Comprehensive,Clean
+14385,0,1.0,1.0,0.0,60.0,5362.07,Severe,9068.4,1,8015.0,Comprehensive,Major Offenses
+14460,0,0.0,1.0,0.0,4.0,6549.14,Minor,12452.32,0,12222.51,Third-Party,Minor Offenses
+14487,0,1.0,1.0,0.0,,9453.08,Moderate,18889.98,0,16973.28,Third-Party,Clean
+14510,1,0.0,1.0,0.0,9.0,3297.23,Severe,5193.51,0,3755.12,Third-Party,Major Offenses
+14531,1,1.0,1.0,0.0,19.0,2155.0,Minor,2869.28,0,2313.79,Comprehensive,Minor Offenses
+14574,1,0.0,1.0,0.0,10.0,2922.32,Minor,4350.67,1,3764.2,Comprehensive,Clean
+14594,1,1.0,1.0,0.0,13.0,14231.8,Severe,17795.04,0,14609.06,Comprehensive,Major Offenses
+14671,1,1.0,1.0,0.0,8.0,7673.39,Moderate,13093.31,1,12439.86,Third-Party,Minor Offenses
+14691,1,1.0,1.0,0.0,55.0,3548.73,Moderate,6075.18,0,5737.41,Comprehensive,Major Offenses
+14706,1,0.0,1.0,0.0,,8991.98,Moderate,16410.97,1,14499.9,Comprehensive,Major Offenses
+14744,0,0.0,1.0,0.0,34.0,9499.68,Minor,17296.71,1,14045.58,Third-Party,Clean
+14745,0,0.0,1.0,0.0,38.0,9958.57,Minor,17007.03,1,13207.68,Comprehensive,Clean
+14750,0,1.0,1.0,0.0,39.0,13590.55,Minor,18419.07,1,13478.38,Third-Party,Minor Offenses
+14754,0,1.0,1.0,0.0,10.0,4181.76,Minor,5418.7,0,4370.02,Comprehensive,Clean
+14758,0,1.0,1.0,0.0,40.0,12064.88,Moderate,15223.32,0,12543.28,Comprehensive,Minor Offenses
+14770,1,1.0,1.0,0.0,45.0,5400.93,Severe,9480.52,1,8558.51,Third-Party,Major Offenses
+14771,1,1.0,1.0,0.0,6.0,12932.68,Minor,16918.97,0,15183.89,Third-Party,Major Offenses
+14810,0,,1.0,0.0,8.0,8800.94,Minor,14705.57,0,10603.19,Third-Party,Minor Offenses
+14865,1,0.0,1.0,0.0,49.0,8349.84,Moderate,15640.73,1,12803.15,Third-Party,Major Offenses
+14896,1,1.0,1.0,0.0,,10117.72,Severe,13295.16,0,10031.65,Third-Party,Clean
+14933,0,1.0,0.0,0.0,,2735.6,Severe,3959.86,0,2958.19,Third-Party,Major Offenses
+14950,0,0.0,1.0,0.0,15.0,6113.95,Moderate,11128.02,0,10551.48,Comprehensive,Clean
+14954,0,0.0,1.0,0.0,14.0,12390.97,Moderate,19701.06,1,14038.47,Comprehensive,Minor Offenses
+14959,1,0.0,1.0,0.0,11.0,11007.86,Severe,18779.07,0,15506.91,Third-Party,Minor Offenses
+14975,0,0.0,1.0,0.0,68.0,967.55,Minor,1341.89,1,1007.04,Comprehensive,Major Offenses
+15000,0,1.0,1.0,0.0,40.0,2362.13,Severe,3713.89,0,3579.44,Third-Party,Major Offenses
+15010,1,1.0,0.0,0.0,8.0,2445.1,Moderate,3068.71,0,2660.92,Comprehensive,Clean
+15060,1,1.0,1.0,0.0,30.0,7569.02,Minor,14656.61,0,11277.0,Third-Party,Clean
+15080,1,1.0,1.0,0.0,39.0,9975.07,Minor,16446.81,1,13991.76,Comprehensive,Major Offenses
+15090,0,0.0,1.0,0.0,8.0,3005.93,Moderate,4663.47,1,4287.81,Comprehensive,Major Offenses
+15037,0,0.0,1.0,0.0,49.0,6746.43,Moderate,10364.13,0,10233.91,Comprehensive,Minor Offenses
+15045,0,1.0,1.0,0.0,48.0,10048.05,Moderate,16893.71,1,12942.84,Comprehensive,Minor Offenses
+15050,0,0.0,1.0,0.0,7.0,10630.37,Severe,14789.63,0,14284.63,Comprehensive,Minor Offenses
+15051,1,1.0,1.0,0.0,6.0,8442.8,Severe,11073.63,1,10855.38,Third-Party,Major Offenses
+15098,0,0.0,1.0,0.0,1.0,9388.6,Minor,12011.78,1,11710.6,Third-Party,Major Offenses
+15104,1,0.0,1.0,0.0,,7721.55,Moderate,10413.03,0,9274.1,Third-Party,Major Offenses
+15135,1,0.0,1.0,0.0,51.0,4759.25,Minor,6302.19,0,5602.31,Comprehensive,Minor Offenses
+15183,0,1.0,1.0,,19.0,7661.31,Minor,11517.93,0,9455.8,Third-Party,Major Offenses
+15185,1,0.0,1.0,0.0,39.0,10418.82,Minor,13933.26,0,12898.29,Comprehensive,Clean
+15378,0,0.0,1.0,0.0,15.0,10361.01,Minor,17529.8,1,15064.9,Comprehensive,Major Offenses
+15383,0,0.0,1.0,0.0,8.0,7996.87,Moderate,12907.68,1,11658.62,Comprehensive,Major Offenses
+15400,1,1.0,1.0,0.0,39.0,9129.55,Minor,15341.87,1,12711.31,Third-Party,Major Offenses
+15406,0,0.0,1.0,0.0,1.0,2318.48,Moderate,3621.4,0,3329.69,Comprehensive,Major Offenses
+15407,0,1.0,1.0,0.0,43.0,5564.12,Moderate,9500.37,0,9000.09,Third-Party,Major Offenses
+15435,1,1.0,1.0,,17.0,537.72,Severe,681.97,1,507.34,Third-Party,Clean
+15438,1,0.0,1.0,0.0,9.0,3153.5,Moderate,5310.24,0,5044.09,Comprehensive,Clean
+15455,1,1.0,1.0,0.0,30.0,7764.38,Severe,14666.0,1,12643.4,Comprehensive,Major Offenses
+15475,0,1.0,1.0,0.0,6.0,13055.81,Moderate,19840.29,1,18915.73,Third-Party,Minor Offenses
+15506,0,0.0,1.0,0.0,19.0,1258.68,Moderate,2433.97,1,2018.71,Third-Party,Major Offenses
+15561,0,0.0,1.0,0.0,48.0,4440.79,Moderate,8329.14,1,6777.52,Third-Party,Major Offenses
+15574,1,0.0,0.0,0.0,,9110.43,Severe,16101.38,1,15691.09,Third-Party,Major Offenses
+15585,1,0.0,1.0,0.0,,2863.25,Severe,4478.69,0,3472.56,Third-Party,Minor Offenses
+15587,1,1.0,1.0,0.0,15.0,7133.94,Minor,11324.16,0,10794.91,Third-Party,Minor Offenses
+15601,1,1.0,1.0,0.0,16.0,10946.85,Severe,14794.89,0,12504.73,Comprehensive,Minor Offenses
+15606,0,1.0,1.0,0.0,,9031.49,Severe,12511.72,1,10687.87,Third-Party,Clean
+15659,0,1.0,1.0,0.0,15.0,2616.11,Severe,4166.48,1,3302.1,Third-Party,Minor Offenses
+15680,0,0.0,1.0,0.0,31.0,4458.83,Severe,7430.0,1,6478.31,Third-Party,Clean
+15693,0,0.0,1.0,0.0,7.0,9390.51,Minor,15783.94,1,12588.69,Third-Party,Clean
+15731,0,0.0,0.0,0.0,40.0,8279.28,Severe,11307.42,0,8048.4,Comprehensive,Minor Offenses
+15760,0,1.0,1.0,0.0,53.0,310.39,Moderate,601.98,0,470.51,Comprehensive,Minor Offenses
+15799,1,0.0,1.0,0.0,5.0,7728.66,Moderate,15339.32,1,10766.88,Third-Party,Minor Offenses
+15801,1,0.0,1.0,0.0,63.0,877.95,Severe,1188.57,1,1180.85,Third-Party,Clean
+15805,0,,1.0,0.0,0.0,9674.05,Severe,15041.81,1,14887.24,Third-Party,Major Offenses
+15870,1,1.0,1.0,0.0,,2398.85,Moderate,4448.37,0,3641.2,Comprehensive,Minor Offenses
+15898,0,1.0,1.0,0.0,55.0,10946.83,Moderate,19182.43,0,17619.28,Comprehensive,Minor Offenses
+15901,1,1.0,1.0,0.0,78.0,5984.47,Minor,7674.84,0,6168.59,Comprehensive,Minor Offenses
+16013,0,1.0,1.0,0.0,40.0,5210.35,Moderate,6875.17,1,6196.78,Comprehensive,Clean
+16031,1,0.0,1.0,0.0,7.0,2426.35,Moderate,3403.32,1,3204.66,Comprehensive,Clean
+16070,0,1.0,0.0,0.0,69.0,4164.09,Severe,6459.28,0,6356.11,Comprehensive,Major Offenses
+16080,0,1.0,1.0,0.0,54.0,11543.82,Moderate,17594.69,1,14428.77,Third-Party,Minor Offenses
+16013,0,0.0,1.0,0.0,9.0,15794.81,Minor,19928.52,0,18632.95,Comprehensive,Clean
+16088,1,1.0,1.0,0.0,11.0,6066.75,Moderate,7682.04,1,5990.29,Comprehensive,Major Offenses
+16139,1,1.0,1.0,0.0,40.0,5221.19,Severe,9247.91,0,9221.09,Third-Party,Minor Offenses
+16147,0,1.0,1.0,0.0,36.0,10838.05,Severe,14580.38,1,10318.99,Comprehensive,Clean
+16170,1,0.0,1.0,0.0,8.0,9942.55,Moderate,17780.82,0,15665.95,Third-Party,Minor Offenses
+16300,1,0.0,1.0,0.0,34.0,6805.04,Severe,12064.36,0,10832.01,Comprehensive,Minor Offenses
+16306,0,1.0,1.0,0.0,,5717.33,Minor,8134.75,0,7373.45,Third-Party,Clean
+16315,1,1.0,1.0,0.0,10.0,5311.42,Minor,8546.13,0,6290.95,Third-Party,Clean
+16338,0,1.0,1.0,0.0,38.0,10962.8,Moderate,14064.55,0,13805.18,Third-Party,Clean
+16345,1,1.0,1.0,0.0,41.0,296.41,Moderate,562.76,0,424.52,Third-Party,Minor Offenses
+16347,0,1.0,1.0,0.0,30.0,8221.8,Moderate,12581.99,1,11158.04,Third-Party,Minor Offenses
+16371,1,1.0,1.0,0.0,10.0,5764.02,Severe,7432.11,1,5698.96,Comprehensive,Major Offenses
+16379,1,1.0,1.0,0.0,30.0,12329.6,Minor,15986.85,1,12664.22,Comprehensive,Minor Offenses
+16383,0,0.0,0.0,0.0,41.0,1265.29,Minor,2313.32,0,1998.56,Third-Party,Clean
+16451,0,0.0,1.0,0.0,45.0,7301.56,Severe,11969.94,0,9877.09,Third-Party,Minor Offenses
+16456,1,0.0,1.0,0.0,41.0,6774.37,Minor,9878.97,1,7390.14,Third-Party,Major Offenses
+16506,1,1.0,1.0,0.0,8.0,7135.53,Moderate,13025.35,0,9785.7,Comprehensive,Major Offenses
+16534,0,1.0,1.0,0.0,0.0,1394.79,Moderate,1764.65,0,1456.62,Third-Party,Clean
+16546,1,0.0,1.0,0.0,10.0,9145.71,Moderate,11809.68,0,10949.76,Third-Party,Clean
+16561,1,1.0,1.0,0.0,73.0,6297.9,Minor,11448.95,0,11098.49,Third-Party,Major Offenses
+16571,1,0.0,1.0,0.0,74.0,6131.98,Moderate,11432.87,0,8291.56,Third-Party,Major Offenses
+16580,0,1.0,1.0,0.0,17.0,6448.34,Severe,12268.01,1,10034.39,Comprehensive,Major Offenses
+16603,0,1.0,1.0,0.0,6.0,10580.95,Severe,13691.12,1,9995.53,Third-Party,Clean
+16614,1,1.0,1.0,0.0,45.0,9039.5,Minor,16197.29,1,11418.73,Third-Party,Major Offenses
+16676,0,0.0,1.0,0.0,58.0,3600.28,Severe,5761.5,1,5176.8,Comprehensive,Major Offenses
+16677,1,0.0,1.0,0.0,,10527.96,Severe,16588.46,1,14610.03,Third-Party,Clean
+16697,0,0.0,1.0,0.0,9.0,6943.84,Minor,10215.99,0,7650.81,Third-Party,Minor Offenses
+16708,0,1.0,1.0,0.0,48.0,1044.42,Moderate,2002.64,0,1542.32,Comprehensive,Minor Offenses
+16738,1,1.0,1.0,0.0,37.0,932.55,Moderate,1641.74,0,1160.89,Comprehensive,Major Offenses
+16748,1,1.0,1.0,0.0,55.0,5469.89,Moderate,7017.65,0,6670.17,Comprehensive,Minor Offenses
+16769,0,0.0,1.0,0.0,5.0,12210.11,Minor,15805.49,1,15685.48,Third-Party,Minor Offenses
+16773,1,0.0,1.0,0.0,10.0,10501.58,Severe,14299.78,1,10590.96,Third-Party,Minor Offenses
+16798,1,1.0,1.0,0.0,,8031.41,Moderate,15877.99,1,12217.2,Comprehensive,Minor Offenses
+16844,0,0.0,1.0,0.0,47.0,6331.96,Moderate,10586.75,0,10168.82,Comprehensive,Major Offenses
+16869,0,0.0,1.0,0.0,31.0,6253.23,Minor,9083.88,1,8883.48,Comprehensive,Minor Offenses
+16870,0,1.0,1.0,0.0,11.0,1966.32,Moderate,3375.32,0,2787.64,Third-Party,Minor Offenses
+16906,0,1.0,1.0,0.0,58.0,5332.66,Minor,6899.76,1,4934.62,Third-Party,Clean
+16908,1,0.0,1.0,0.0,14.0,6186.23,Severe,8963.38,1,6380.29,Comprehensive,Major Offenses
+16909,0,1.0,1.0,0.0,,1161.91,Minor,2227.71,0,1942.98,Third-Party,Clean
+16989,1,0.0,1.0,0.0,49.0,3710.46,Minor,4801.93,0,3927.35,Comprehensive,Clean
+17039,1,1.0,1.0,0.0,86.0,9578.18,Minor,12165.39,1,8620.34,Third-Party,Major Offenses
+17048,0,1.0,1.0,0.0,19.0,7768.82,Minor,14845.43,1,12989.39,Third-Party,Minor Offenses
+17101,0,0.0,1.0,0.0,,13172.91,Severe,19967.78,0,14045.15,Third-Party,Clean
+17148,0,1.0,1.0,0.0,63.0,11049.34,Severe,18695.71,1,17503.14,Third-Party,Major Offenses
+17160,1,1.0,1.0,0.0,47.0,8050.62,Moderate,13030.02,1,10318.86,Comprehensive,Minor Offenses
+17165,1,1.0,1.0,0.0,8.0,4826.83,Severe,8714.34,0,6205.28,Third-Party,Major Offenses
+17176,1,1.0,1.0,0.0,15.0,8690.82,Severe,12905.46,1,11311.71,Third-Party,Clean
+17196,0,1.0,1.0,0.0,14.0,12456.74,Moderate,15820.21,0,12961.58,Comprehensive,Minor Offenses
+17303,0,1.0,1.0,1.0,15.0,1827.5,Severe,2807.56,1,2785.49,Third-Party,Minor Offenses
+17334,1,0.0,1.0,0.0,78.0,4457.84,Minor,8493.15,0,7331.79,Comprehensive,Major Offenses
+17405,0,0.0,1.0,0.0,34.0,11577.04,Minor,16876.14,1,13206.79,Comprehensive,Minor Offenses
+17433,1,0.0,1.0,0.0,17.0,4807.35,Moderate,7984.74,0,7288.72,Third-Party,Clean
+17470,1,0.0,1.0,0.0,33.0,8817.6,Moderate,11651.51,1,9105.04,Third-Party,Clean
+17487,1,0.0,1.0,0.0,35.0,7540.57,Moderate,11961.5,0,11617.88,Comprehensive,Clean
+17507,1,0.0,1.0,0.0,59.0,2285.68,Minor,4097.29,1,3328.71,Comprehensive,Major Offenses
+17550,0,1.0,1.0,0.0,33.0,4215.43,Severe,7563.59,1,6542.21,Comprehensive,Minor Offenses
+17560,1,0.0,0.0,0.0,35.0,5131.19,Minor,7022.97,1,5022.63,Third-Party,Minor Offenses
+17599,0,0.0,1.0,0.0,35.0,585.96,Moderate,1010.84,1,836.81,Comprehensive,Minor Offenses
+17638,0,0.0,1.0,0.0,7.0,709.54,Severe,971.74,1,922.87,Comprehensive,Clean
+17700,0,1.0,1.0,0.0,40.0,9391.66,Severe,16718.09,1,15743.34,Comprehensive,Minor Offenses
+17704,0,0.0,0.0,0.0,8.0,3474.58,Minor,5824.88,1,4469.4,Third-Party,Clean
+17708,0,1.0,0.0,0.0,13.0,6781.87,Moderate,10602.54,1,8140.88,Comprehensive,Minor Offenses
+17739,1,0.0,1.0,0.0,56.0,4952.33,Minor,6325.15,1,5978.48,Third-Party,Clean
+17749,1,1.0,1.0,0.0,38.0,14688.68,Severe,18843.25,0,18449.79,Third-Party,Minor Offenses
+17786,1,1.0,1.0,0.0,77.0,3122.98,Minor,5556.29,0,4048.36,Comprehensive,Major Offenses
+17790,1,0.0,1.0,0.0,33.0,5393.27,Minor,8878.31,1,7413.55,Third-Party,Major Offenses
+17798,1,1.0,1.0,0.0,35.0,9544.28,Moderate,17518.24,0,14036.25,Comprehensive,Clean
+17801,1,1.0,1.0,0.0,16.0,11047.18,Moderate,16917.7,1,16261.4,Third-Party,Clean
+17803,0,0.0,0.0,0.0,36.0,2635.01,Severe,4128.98,1,2993.75,Third-Party,Minor Offenses
+17843,0,0.0,1.0,0.0,,12440.37,Minor,16151.54,0,12329.08,Comprehensive,Minor Offenses
+17897,1,1.0,,,58.0,7349.6,Minor,9434.64,1,8734.03,Comprehensive,Major Offenses
+17945,0,1.0,1.0,0.0,3.0,6100.2,Minor,9917.89,1,7095.14,Comprehensive,Minor Offenses
+17954,1,1.0,1.0,0.0,39.0,2009.17,Severe,3102.86,0,2630.48,Third-Party,Clean
+17960,1,1.0,1.0,0.0,16.0,1592.89,Severe,2071.73,0,1724.99,Third-Party,Clean
+18089,0,0.0,0.0,0.0,47.0,10903.74,Moderate,14694.82,1,11760.56,Comprehensive,Clean
+18000,0,0.0,1.0,0.0,45.0,5101.66,Moderate,10180.99,0,8331.83,Comprehensive,Clean
+18037,1,1.0,1.0,0.0,10.0,5375.24,Moderate,9018.59,0,7746.81,Third-Party,Clean
+18048,1,1.0,1.0,0.0,39.0,9225.94,Minor,14725.41,1,11020.65,Third-Party,Major Offenses
+18057,0,0.0,1.0,0.0,47.0,8776.93,Minor,15427.5,0,13446.59,Third-Party,Major Offenses
+18095,0,0.0,1.0,0.0,50.0,2014.82,Moderate,3598.71,0,3388.65,Comprehensive,Clean
+18109,1,1.0,1.0,0.0,65.0,6340.25,Minor,12399.39,1,11507.23,Third-Party,Minor Offenses
+18110,0,0.0,1.0,0.0,43.0,2175.64,Moderate,3139.4,0,2342.53,Comprehensive,Clean
+18194,1,1.0,1.0,0.0,16.0,8769.16,Severe,15151.81,0,11284.69,Third-Party,Major Offenses
+18300,0,1.0,1.0,0.0,43.0,6864.35,Moderate,13310.63,1,10388.31,Third-Party,Clean
+18319,0,0.0,1.0,0.0,9.0,10904.25,Severe,19153.99,1,15482.6,Comprehensive,Major Offenses
+18330,0,0.0,1.0,0.0,49.0,1366.12,Minor,1844.68,1,1517.32,Comprehensive,Major Offenses
+18340,0,1.0,1.0,0.0,54.0,1218.21,Moderate,1612.57,0,1457.62,Comprehensive,Clean
+18341,0,1.0,1.0,0.0,46.0,3871.23,Minor,6002.65,1,4303.92,Third-Party,Clean
+18368,0,0.0,1.0,0.0,36.0,3501.04,Severe,5603.26,1,3980.57,Third-Party,Minor Offenses
+18455,0,0.0,1.0,0.0,36.0,4217.55,Severe,5316.09,0,4346.29,Third-Party,Major Offenses
+18460,0,0.0,1.0,0.0,50.0,10179.38,Severe,18171.96,1,16521.02,Comprehensive,Minor Offenses
+18463,1,0.0,1.0,0.0,54.0,3029.77,Minor,5366.15,1,4067.71,Third-Party,Clean
+18509,1,1.0,1.0,0.0,40.0,3409.62,Minor,5803.02,1,5178.91,Comprehensive,Major Offenses
+18511,1,1.0,1.0,0.0,46.0,8447.52,Minor,15308.27,1,11909.04,Comprehensive,Minor Offenses
+18550,0,0.0,1.0,0.0,6.0,5689.97,Minor,9269.93,0,8953.14,Comprehensive,Minor Offenses
+18607,1,0.0,1.0,0.0,,12098.17,Severe,15645.86,1,15156.25,Third-Party,Minor Offenses
+18653,0,1.0,0.0,0.0,11.0,1214.93,Severe,1774.64,1,1400.52,Third-Party,Clean
+18663,0,1.0,1.0,0.0,0.0,6240.6,Moderate,10007.64,0,7695.86,Comprehensive,Clean
+18737,0,0.0,1.0,0.0,4.0,901.64,Moderate,1155.47,1,951.4,Third-Party,Clean
+18753,1,1.0,1.0,0.0,4.0,885.9,Minor,1721.74,0,1329.46,Comprehensive,Major Offenses
+18766,0,1.0,1.0,0.0,14.0,10234.33,Severe,18175.53,0,16389.15,Comprehensive,Clean
+18784,0,0.0,1.0,0.0,30.0,2153.49,Severe,3215.28,0,3047.5,Third-Party,Major Offenses
+18790,1,1.0,1.0,0.0,60.0,7450.67,Severe,10882.2,1,9814.96,Comprehensive,Minor Offenses
+18795,0,1.0,1.0,0.0,,4359.25,Moderate,8516.36,0,8067.59,Comprehensive,Minor Offenses
+18803,1,1.0,1.0,0.0,,4516.01,Moderate,7273.19,0,5957.45,Third-Party,Clean
+18835,1,0.0,1.0,1.0,36.0,12537.91,Severe,18046.75,0,13479.03,Comprehensive,Minor Offenses
+18861,0,0.0,1.0,0.0,18.0,656.61,Severe,925.56,1,852.8,Comprehensive,Clean
+18887,1,1.0,1.0,0.0,46.0,9295.68,Severe,13443.9,1,10864.58,Comprehensive,Major Offenses
+18941,1,1.0,1.0,0.0,37.0,11497.83,Moderate,19286.19,1,17384.21,Comprehensive,Minor Offenses
+18945,1,1.0,1.0,0.0,,6032.13,Severe,11423.28,1,8923.79,Comprehensive,Clean
+18954,1,1.0,1.0,0.0,6.0,11788.84,Severe,18768.04,1,13594.98,Comprehensive,Minor Offenses
+18984,1,1.0,1.0,0.0,61.0,818.19,Minor,1519.03,1,1515.65,Comprehensive,Minor Offenses
+18987,1,0.0,1.0,0.0,10.0,6797.0,Minor,8666.47,1,6472.64,Third-Party,Clean
+18990,0,1.0,1.0,0.0,30.0,3580.99,Moderate,5573.08,0,5553.72,Third-Party,Minor Offenses
+19075,0,0.0,1.0,0.0,8.0,8779.47,Severe,14751.01,0,14650.47,Comprehensive,Minor Offenses
+19033,1,1.0,1.0,0.0,,14331.63,Severe,19635.29,0,18420.76,Comprehensive,Minor Offenses
+19061,0,1.0,1.0,0.0,13.0,3573.13,Minor,5502.34,0,4940.15,Third-Party,Minor Offenses
+19067,1,0.0,1.0,0.0,36.0,7861.18,Moderate,13256.4,1,11577.37,Third-Party,Major Offenses
+19069,1,1.0,1.0,0.0,57.0,3244.21,Minor,4362.9,0,4187.64,Third-Party,Minor Offenses
+19070,1,1.0,1.0,0.0,61.0,8759.87,Minor,11523.94,0,9067.4,Third-Party,Minor Offenses
+19087,0,0.0,1.0,0.0,48.0,6700.84,Minor,9546.68,0,8022.12,Third-Party,Clean
+19093,1,0.0,0.0,0.0,17.0,10001.15,Minor,19454.1,0,17232.77,Comprehensive,Major Offenses
+19108,0,0.0,1.0,0.0,10.0,8284.13,Severe,12366.28,1,10181.86,Third-Party,Clean
+19173,0,1.0,1.0,0.0,30.0,5332.82,Severe,7315.37,1,6058.93,Third-Party,Clean
+19195,0,1.0,1.0,0.0,,1474.02,Minor,2724.87,1,2177.4,Third-Party,Clean
+19350,1,0.0,1.0,0.0,44.0,1961.28,Moderate,3449.31,0,2998.38,Comprehensive,Major Offenses
+19389,0,1.0,1.0,0.0,13.0,3742.43,Moderate,4893.68,1,4674.31,Comprehensive,Clean
+19395,1,1.0,1.0,0.0,39.0,2729.49,Moderate,5393.85,0,4101.8,Comprehensive,Clean
+19406,1,0.0,1.0,0.0,13.0,12402.06,Moderate,17087.01,1,16750.91,Comprehensive,Clean
+19404,0,1.0,1.0,0.0,46.0,7348.46,Minor,11443.84,1,10376.43,Comprehensive,Minor Offenses
+19410,0,0.0,0.0,0.0,51.0,6788.02,Severe,10706.12,1,10138.5,Comprehensive,Clean
+19440,1,1.0,1.0,0.0,7.0,1374.82,Moderate,2737.99,1,2373.45,Third-Party,Major Offenses
+19446,0,1.0,1.0,,7.0,12882.33,Minor,17272.72,1,16130.22,Comprehensive,Major Offenses
+19447,0,0.0,0.0,0.0,5.0,8872.92,Moderate,14594.88,0,10287.35,Comprehensive,Minor Offenses
+19465,0,1.0,1.0,0.0,54.0,1204.95,Moderate,1819.53,1,1720.39,Third-Party,Major Offenses
+19490,1,0.0,1.0,0.0,,10057.57,Minor,14302.78,0,10184.18,Comprehensive,Major Offenses
+19558,1,0.0,1.0,0.0,44.0,7889.05,Severe,11099.0,0,10732.44,Third-Party,Minor Offenses
+19560,0,1.0,0.0,1.0,45.0,1647.26,Severe,2093.64,0,2088.59,Third-Party,Clean
+19609,1,1.0,1.0,0.0,0.0,6222.68,Minor,9436.86,0,7438.32,Comprehensive,Minor Offenses
+19605,0,0.0,1.0,0.0,37.0,6169.14,Severe,9951.58,0,7594.01,Third-Party,Clean
+19670,1,0.0,1.0,0.0,59.0,2934.24,Minor,3732.6,1,3469.86,Third-Party,Clean
+19683,0,0.0,0.0,0.0,3.0,13119.24,Minor,18941.11,1,14696.56,Third-Party,Major Offenses
+19701,0,1.0,1.0,0.0,6.0,10064.49,Minor,17074.52,1,16385.88,Third-Party,Minor Offenses
+19710,1,1.0,1.0,0.0,5.0,7286.89,Severe,13545.94,1,9900.09,Comprehensive,Major Offenses
+19761,1,0.0,1.0,0.0,,7162.39,Minor,9514.76,0,7019.86,Third-Party,Major Offenses
+19765,0,1.0,0.0,0.0,40.0,5191.48,Moderate,8529.43,1,8476.08,Comprehensive,Clean
+19790,1,0.0,,,11.0,9211.26,Severe,13193.98,1,11902.97,Third-Party,Major Offenses
+19814,1,0.0,1.0,0.0,34.0,7140.85,Severe,11135.92,0,10624.4,Third-Party,Minor Offenses
+19837,0,0.0,1.0,0.0,76.0,959.47,Severe,1714.33,0,1366.83,Third-Party,Major Offenses
+19857,1,,,,,7141.09,Severe,10493.8,1,9475.33,Comprehensive,Major Offenses
+19884,0,1.0,1.0,0.0,50.0,8407.81,Moderate,16224.87,1,14249.86,Comprehensive,Clean
+19961,1,1.0,1.0,0.0,6.0,5900.06,Severe,9455.18,0,8329.49,Comprehensive,Minor Offenses
+30010,0,0.0,,,,1004.71,Severe,1513.15,1,1369.04,Third-Party,Major Offenses
+30017,0,1.0,1.0,0.0,3.0,9987.31,Minor,15832.42,1,13815.49,Third-Party,Clean
+30033,1,0.0,1.0,0.0,9.0,3207.51,Severe,4426.59,1,3668.4,Third-Party,Major Offenses
+30085,1,0.0,1.0,0.0,13.0,4148.34,Moderate,5543.11,1,4339.02,Third-Party,Minor Offenses
+30064,1,1.0,1.0,0.0,68.0,2714.69,Moderate,3711.77,0,3454.08,Comprehensive,Major Offenses
+30163,0,0.0,1.0,0.0,16.0,3550.39,Moderate,6939.19,0,5328.48,Third-Party,Major Offenses
+30306,0,,1.0,0.0,,8516.85,Moderate,15256.65,0,13848.56,Comprehensive,Clean
+30357,0,0.0,1.0,0.0,56.0,7024.93,Severe,10628.02,1,8183.57,Third-Party,Major Offenses
+30381,0,0.0,1.0,0.0,38.0,3508.25,Severe,4495.18,1,3989.92,Comprehensive,Clean
+30384,1,1.0,1.0,0.0,13.0,13221.85,Moderate,17617.69,1,16280.92,Comprehensive,Minor Offenses
+30430,0,1.0,1.0,0.0,37.0,13287.61,Moderate,17651.85,1,13514.51,Third-Party,Major Offenses
+30436,1,0.0,1.0,0.0,,10327.83,Severe,17476.28,1,12547.67,Third-Party,Minor Offenses
+30448,0,0.0,0.0,0.0,9.0,3242.6,Moderate,5156.53,0,3812.18,Comprehensive,Minor Offenses
+30483,0,1.0,,,33.0,5962.74,Minor,9299.17,1,8200.0,Third-Party,Major Offenses
+30490,1,0.0,1.0,0.0,0.0,10784.06,Moderate,19707.3,1,18817.2,Third-Party,Clean
+30498,0,0.0,1.0,0.0,10.0,7922.09,Moderate,15554.24,0,11097.94,Comprehensive,Minor Offenses
+30501,1,1.0,1.0,0.0,34.0,807.4,Minor,1029.76,1,947.63,Comprehensive,Minor Offenses
+30548,1,0.0,1.0,0.0,,1013.67,Minor,1771.49,0,1421.44,Comprehensive,Major Offenses
+30557,1,0.0,1.0,0.0,40.0,5460.54,Severe,9546.66,0,8053.17,Comprehensive,Major Offenses
+30588,0,1.0,1.0,0.0,44.0,9570.89,Severe,18229.79,0,17840.73,Third-Party,Major Offenses
+30594,1,0.0,1.0,0.0,9.0,8567.73,Minor,11004.69,0,8799.26,Comprehensive,Major Offenses
+30634,0,0.0,1.0,0.0,48.0,6878.94,Minor,10207.34,0,8570.09,Comprehensive,Major Offenses
+30670,0,1.0,1.0,0.0,0.0,1790.0,Severe,2556.74,1,1800.21,Comprehensive,Major Offenses
+30683,0,1.0,1.0,0.0,5.0,10292.77,Moderate,13307.21,0,9640.8,Third-Party,Clean
+30759,0,0.0,1.0,0.0,,9979.54,Minor,16531.01,0,12854.14,Comprehensive,Minor Offenses
+30781,1,1.0,1.0,0.0,7.0,5435.46,Severe,7918.19,1,5608.89,Third-Party,Clean
+30790,0,0.0,1.0,0.0,18.0,7994.08,Moderate,15624.43,1,13896.56,Comprehensive,Clean
+30793,0,1.0,1.0,0.0,35.0,10735.47,Minor,19307.29,0,15984.88,Comprehensive,Major Offenses
+30799,0,0.0,1.0,0.0,76.0,3352.29,Moderate,4473.45,1,3867.05,Third-Party,Minor Offenses
+30816,1,1.0,1.0,0.0,17.0,7814.93,Severe,10704.93,1,8054.33,Comprehensive,Clean
+30900,0,1.0,1.0,0.0,,3691.19,Minor,6099.19,0,4810.92,Comprehensive,Major Offenses
+30908,1,0.0,0.0,0.0,15.0,9784.57,Moderate,15960.66,0,14350.99,Third-Party,Major Offenses
+30903,1,1.0,1.0,0.0,,7764.41,Minor,11763.07,1,11640.63,Comprehensive,Minor Offenses
+30909,1,1.0,1.0,0.0,11.0,6438.11,Moderate,12874.36,0,9206.78,Comprehensive,Clean
+30915,1,0.0,1.0,0.0,38.0,9191.93,Severe,16059.33,0,15531.22,Comprehensive,Clean
+30931,0,1.0,1.0,0.0,6.0,4624.3,Severe,8221.42,1,7177.83,Comprehensive,Clean
+30948,1,1.0,1.0,0.0,53.0,10550.61,Minor,18344.26,0,15944.39,Third-Party,Major Offenses
+30013,1,1.0,1.0,0.0,47.0,8080.91,Moderate,10894.06,0,9260.86,Comprehensive,Minor Offenses
+30050,0,0.0,1.0,0.0,40.0,2090.44,Minor,3580.12,0,2580.62,Third-Party,Minor Offenses
+30051,0,1.0,1.0,0.0,3.0,7843.43,Minor,14070.03,0,10228.39,Comprehensive,Clean
+30063,1,1.0,1.0,0.0,55.0,10400.01,Moderate,15968.6,0,14056.74,Third-Party,Major Offenses
+30015,1,0.0,1.0,0.0,80.0,5072.36,Moderate,6676.85,1,5356.75,Comprehensive,Clean
+30040,1,1.0,1.0,0.0,9.0,9853.95,Moderate,17215.0,1,16787.73,Third-Party,Minor Offenses
+30065,0,1.0,1.0,0.0,51.0,9512.99,Severe,18169.79,0,14935.15,Comprehensive,Major Offenses
+30108,1,1.0,1.0,0.0,7.0,3580.62,Minor,5899.64,1,4383.34,Third-Party,Clean
+30179,1,1.0,1.0,0.0,7.0,14253.17,Minor,19678.67,0,17994.48,Third-Party,Clean
+30383,0,1.0,1.0,0.0,11.0,2157.85,Severe,3243.87,0,2556.19,Comprehensive,Major Offenses
+30389,1,1.0,1.0,0.0,10.0,3307.45,Moderate,4439.31,0,3807.33,Third-Party,Minor Offenses
+30408,0,1.0,1.0,0.0,19.0,3224.29,Severe,4092.38,0,3721.41,Comprehensive,Major Offenses
+30403,1,1.0,1.0,0.0,40.0,13230.8,Severe,17932.8,0,17396.24,Comprehensive,Clean
+30507,1,1.0,1.0,0.0,30.0,9031.04,Severe,13258.7,1,12432.12,Comprehensive,Clean
+30584,1,1.0,1.0,0.0,47.0,2246.0,Minor,3466.03,1,3129.51,Comprehensive,Clean
+30675,0,1.0,1.0,0.0,8.0,4652.38,Severe,9086.31,0,8213.02,Comprehensive,Clean
+30709,0,1.0,1.0,0.0,48.0,9939.86,Minor,12498.31,1,12295.55,Third-Party,Minor Offenses
+30751,1,,1.0,0.0,34.0,1308.54,Minor,2127.55,0,1678.1,Comprehensive,Minor Offenses
+30770,0,1.0,1.0,0.0,33.0,9662.22,Minor,17707.12,1,12400.89,Comprehensive,Clean
+30775,0,1.0,1.0,0.0,44.0,11319.39,Moderate,16170.27,0,12638.46,Comprehensive,Minor Offenses
+30783,0,0.0,1.0,0.0,,6058.61,Minor,10351.53,1,7922.72,Comprehensive,Minor Offenses
+30806,0,0.0,1.0,0.0,,13081.5,Minor,19358.97,0,17395.01,Comprehensive,Minor Offenses
+30816,0,0.0,1.0,0.0,46.0,5845.19,Moderate,8646.34,0,7696.22,Comprehensive,Clean
+30840,1,1.0,1.0,0.0,,12478.02,Minor,19690.15,1,17288.71,Third-Party,Major Offenses
+30858,1,1.0,1.0,0.0,39.0,10154.63,Severe,13524.44,1,9533.01,Third-Party,Major Offenses
+30880,1,0.0,1.0,0.0,,7461.57,Severe,12876.09,0,11828.41,Comprehensive,Major Offenses
+30903,1,1.0,0.0,0.0,49.0,2370.9,Minor,3736.12,1,2977.91,Third-Party,Clean
+30957,0,1.0,1.0,0.0,58.0,11703.55,Moderate,17697.59,0,15919.28,Comprehensive,Minor Offenses
+30961,1,1.0,1.0,0.0,,6177.17,Severe,8836.05,1,7660.62,Comprehensive,Minor Offenses
+30976,0,1.0,1.0,0.0,0.0,2693.41,Moderate,3663.55,1,2941.17,Comprehensive,Clean
+30998,0,1.0,1.0,0.0,15.0,461.27,Moderate,745.85,0,552.21,Comprehensive,Clean
+31003,0,1.0,1.0,0.0,70.0,7920.05,Severe,11415.24,1,8314.01,Comprehensive,Major Offenses
+31011,1,1.0,1.0,0.0,40.0,5879.41,Moderate,10784.29,1,10239.2,Third-Party,Major Offenses
+31016,1,1.0,1.0,0.0,8.0,11328.39,Severe,14527.4,0,14171.76,Third-Party,Clean
+31036,0,0.0,1.0,0.0,30.0,10982.45,Moderate,17860.03,1,15983.59,Third-Party,Major Offenses
+31056,0,1.0,0.0,0.0,31.0,1472.53,Severe,2048.43,0,1497.46,Third-Party,Minor Offenses
+31059,0,0.0,1.0,0.0,46.0,7472.19,Minor,14764.18,0,12115.61,Comprehensive,Clean
+31075,0,1.0,1.0,0.0,10.0,2333.0,Severe,4154.53,0,3816.69,Third-Party,Clean
+31096,1,1.0,1.0,0.0,,11135.6,Severe,17234.45,0,16096.05,Comprehensive,Minor Offenses
+31001,1,0.0,1.0,0.0,50.0,12575.77,Severe,16471.74,0,12114.4,Third-Party,Minor Offenses
+31008,1,,1.0,0.0,45.0,7269.88,Severe,11045.48,1,7731.94,Third-Party,Minor Offenses
+31010,1,1.0,1.0,0.0,8.0,11177.88,Moderate,14349.73,0,13110.5,Third-Party,Major Offenses
+31041,0,0.0,1.0,0.0,50.0,4277.16,Minor,6629.83,0,5350.13,Third-Party,Clean
+31056,0,1.0,1.0,0.0,,6269.29,Severe,9687.77,1,7521.05,Comprehensive,Major Offenses
+31081,0,0.0,,,7.0,8854.49,Moderate,16521.92,1,11629.27,Third-Party,Minor Offenses
+31094,0,0.0,1.0,0.0,17.0,7004.73,Minor,9455.67,1,8151.64,Third-Party,Major Offenses
+31107,0,1.0,1.0,0.0,0.0,4292.51,Minor,7477.07,0,7143.18,Comprehensive,Minor Offenses
+31111,1,0.0,1.0,0.0,66.0,7804.42,Minor,10137.14,0,10008.29,Comprehensive,Major Offenses
+31118,0,0.0,1.0,0.0,37.0,12875.23,Minor,16650.86,0,14481.64,Third-Party,Major Offenses
+31141,1,0.0,1.0,0.0,48.0,5509.58,Severe,7036.56,1,6011.6,Comprehensive,Minor Offenses
+31159,0,0.0,1.0,1.0,30.0,2551.03,Severe,3888.35,0,2821.06,Comprehensive,Major Offenses
+31330,1,0.0,1.0,0.0,7.0,10113.98,Moderate,14384.27,1,12437.53,Comprehensive,Clean
+31350,1,1.0,1.0,0.0,36.0,12181.84,Moderate,16606.58,0,13517.65,Third-Party,Major Offenses
+31386,0,0.0,1.0,0.0,39.0,1328.0,Moderate,2462.43,1,2172.21,Comprehensive,Major Offenses
+31388,1,0.0,1.0,0.0,0.0,3522.22,Minor,5177.55,0,4228.08,Third-Party,Clean
+31400,0,1.0,1.0,0.0,35.0,1667.86,Minor,3268.45,0,2523.54,Third-Party,Minor Offenses
+31480,0,0.0,1.0,0.0,0.0,4729.84,Severe,7284.86,0,5306.94,Third-Party,Clean
+31500,0,1.0,1.0,0.0,39.0,5072.09,Minor,9281.84,1,7374.19,Third-Party,Major Offenses
+31508,1,0.0,1.0,0.0,36.0,8379.81,Minor,15102.11,1,11009.34,Comprehensive,Minor Offenses
+31531,0,0.0,1.0,0.0,,8043.99,Minor,13197.38,0,9938.54,Third-Party,Major Offenses
+31556,1,1.0,1.0,0.0,37.0,7939.72,Moderate,12608.11,0,12560.21,Comprehensive,Major Offenses
+31581,0,1.0,1.0,0.0,,5063.73,Moderate,7371.31,0,6142.0,Third-Party,Clean
+31590,0,0.0,1.0,0.0,50.0,8831.65,Severe,16908.23,1,14533.66,Comprehensive,Clean
+31594,0,1.0,1.0,0.0,,6309.3,Minor,9690.1,0,9322.71,Third-Party,Minor Offenses
+31637,1,1.0,1.0,0.0,7.0,10869.7,Minor,19592.55,0,19566.51,Comprehensive,Minor Offenses
+31667,0,0.0,1.0,0.0,40.0,8648.27,Severe,12865.77,0,11255.16,Third-Party,Minor Offenses
+31700,1,1.0,1.0,0.0,34.0,2047.51,Minor,2962.16,0,2795.52,Third-Party,Major Offenses
+31739,1,1.0,1.0,0.0,18.0,9128.38,Minor,13685.46,1,10922.12,Comprehensive,Clean
+31750,1,1.0,1.0,0.0,0.0,4934.64,Moderate,6839.53,1,5415.01,Third-Party,Clean
+31784,1,1.0,1.0,0.0,5.0,8339.51,Severe,13883.38,0,11395.63,Third-Party,Clean
+31798,0,1.0,1.0,,50.0,1355.47,Severe,1858.0,0,1675.46,Third-Party,Minor Offenses
+31905,0,0.0,1.0,0.0,9.0,2462.76,Severe,3910.19,1,3537.38,Comprehensive,Clean
+31944,0,1.0,1.0,0.0,9.0,11089.93,Severe,17186.88,1,13656.21,Third-Party,Clean
+31960,0,1.0,1.0,0.0,50.0,3423.54,Moderate,4930.0,0,3648.02,Third-Party,Clean
+31994,0,0.0,1.0,0.0,36.0,8503.8,Moderate,16822.3,1,14967.12,Comprehensive,Minor Offenses
+33005,0,0.0,1.0,0.0,30.0,4139.51,Minor,5945.88,1,4391.02,Comprehensive,Clean
+33033,0,1.0,1.0,0.0,0.0,8937.3,Minor,13036.2,0,11387.74,Comprehensive,Minor Offenses
+33047,0,0.0,0.0,0.0,30.0,8322.67,Minor,14035.94,1,12745.01,Comprehensive,Clean
+33054,1,0.0,1.0,0.0,8.0,5518.55,Minor,10496.77,1,9553.99,Comprehensive,Clean
+33015,1,1.0,1.0,0.0,40.0,3402.84,Moderate,6453.56,0,5976.27,Third-Party,Clean
+33037,0,1.0,1.0,1.0,44.0,3610.23,Severe,4646.57,0,4469.34,Third-Party,Minor Offenses
+33050,1,0.0,0.0,0.0,10.0,810.82,Moderate,1147.19,1,975.1,Third-Party,Minor Offenses
+33068,1,1.0,1.0,0.0,4.0,3458.54,Minor,6426.95,0,5906.85,Comprehensive,Clean
+33073,0,1.0,1.0,0.0,41.0,8034.88,Moderate,13236.67,1,11724.4,Third-Party,Major Offenses
+33085,1,0.0,1.0,1.0,,12739.53,Severe,18796.94,0,14210.34,Comprehensive,Minor Offenses
+33144,1,1.0,1.0,0.0,19.0,13128.11,Severe,17488.49,1,12376.72,Comprehensive,Minor Offenses
+33150,1,0.0,1.0,0.0,10.0,7921.34,Moderate,15438.26,0,12124.63,Third-Party,Clean
+33165,1,0.0,1.0,0.0,40.0,9064.31,Moderate,15874.72,1,13222.21,Comprehensive,Major Offenses
+33177,0,1.0,1.0,0.0,,10328.34,Moderate,13467.21,1,11920.26,Comprehensive,Clean
+33198,0,1.0,1.0,0.0,18.0,2803.13,Minor,5575.59,1,5324.62,Third-Party,Minor Offenses
+33307,1,0.0,1.0,0.0,36.0,10194.2,Moderate,18190.3,0,13804.14,Comprehensive,Minor Offenses
+33318,0,0.0,0.0,0.0,,10696.5,Moderate,13579.28,0,10016.96,Comprehensive,Clean
+33330,1,1.0,1.0,0.0,8.0,7817.39,Moderate,11428.59,1,11303.38,Third-Party,Clean
+33379,1,1.0,1.0,0.0,19.0,1541.3,Severe,2664.29,1,1951.36,Comprehensive,Major Offenses
+33440,0,0.0,1.0,0.0,71.0,4794.04,Severe,9217.58,0,7775.46,Comprehensive,Major Offenses
+33450,1,1.0,1.0,0.0,,4818.65,Minor,9476.99,0,8298.71,Third-Party,Minor Offenses
+33455,1,1.0,1.0,0.0,9.0,9954.05,Minor,17358.99,0,14970.61,Third-Party,Major Offenses
+33466,0,1.0,1.0,0.0,,8530.94,Severe,11159.64,0,8099.77,Third-Party,Major Offenses
+33468,1,1.0,1.0,0.0,,4946.84,Severe,7917.81,0,5677.93,Third-Party,Minor Offenses
+33498,1,0.0,1.0,0.0,,13998.04,Severe,19547.61,0,14301.91,Comprehensive,Minor Offenses
+33503,1,1.0,1.0,0.0,38.0,2062.05,Moderate,2659.05,1,2328.47,Comprehensive,Minor Offenses
+33553,1,1.0,1.0,0.0,10.0,5439.69,Moderate,8739.69,0,7545.0,Third-Party,Minor Offenses
+33587,0,1.0,1.0,0.0,43.0,735.46,Severe,1319.48,1,1016.16,Comprehensive,Clean
+33590,0,0.0,1.0,0.0,30.0,9779.95,Moderate,14928.13,0,13305.92,Comprehensive,Minor Offenses
+33607,0,1.0,1.0,0.0,40.0,14214.55,Moderate,18402.49,0,17409.13,Third-Party,Minor Offenses
+33614,0,0.0,1.0,0.0,40.0,4418.76,Minor,5960.73,1,4246.86,Third-Party,Minor Offenses
+33661,0,1.0,1.0,0.0,45.0,8959.26,Severe,17237.66,1,14642.34,Comprehensive,Major Offenses
+33687,1,1.0,1.0,0.0,7.0,4386.95,Severe,6198.26,0,5620.54,Third-Party,Minor Offenses
+33697,1,0.0,1.0,0.0,7.0,12262.87,Moderate,18260.02,1,14164.18,Third-Party,Clean
+33741,0,0.0,1.0,0.0,8.0,11739.78,Severe,15202.26,1,12045.23,Third-Party,Clean
+33744,1,1.0,0.0,,10.0,8692.94,Minor,16195.68,1,14318.46,Comprehensive,Minor Offenses
+33750,0,0.0,1.0,0.0,7.0,561.93,Minor,851.13,1,825.07,Third-Party,Clean
+33759,1,1.0,1.0,0.0,,14722.84,Minor,19274.8,0,18175.7,Comprehensive,Major Offenses
+33778,1,0.0,1.0,0.0,34.0,9139.56,Severe,14670.08,1,12835.43,Comprehensive,Minor Offenses
+33840,1,1.0,1.0,0.0,,4152.92,Severe,6442.65,0,5921.22,Comprehensive,Clean
+33858,0,0.0,1.0,0.0,,8689.04,Severe,16673.2,0,13496.07,Third-Party,Clean
+33865,1,1.0,1.0,0.0,1.0,3494.63,Severe,5989.66,0,5344.51,Third-Party,Minor Offenses
+33881,0,1.0,1.0,0.0,9.0,10464.83,Severe,17518.7,0,14713.16,Third-Party,Clean
+33883,0,0.0,1.0,0.0,10.0,2111.88,Minor,2695.32,1,2040.31,Third-Party,Minor Offenses
+34000,0,1.0,1.0,0.0,9.0,8316.96,Moderate,14221.88,1,12949.33,Third-Party,Clean
+34035,0,1.0,1.0,0.0,7.0,7048.71,Minor,11043.62,0,9574.15,Comprehensive,Major Offenses
+34050,0,1.0,1.0,0.0,70.0,1671.01,Severe,2382.42,0,1924.01,Comprehensive,Clean
+34055,0,0.0,1.0,0.0,14.0,2862.29,Minor,5216.93,0,5078.17,Comprehensive,Clean
+34085,1,1.0,1.0,0.0,33.0,479.2,Severe,741.88,0,523.98,Third-Party,Minor Offenses
+34011,1,0.0,1.0,0.0,33.0,6956.56,Severe,9640.98,1,7661.99,Comprehensive,Clean
+34030,0,1.0,1.0,0.0,3.0,4845.11,Minor,6374.67,0,4571.05,Comprehensive,Minor Offenses
+34066,1,1.0,1.0,0.0,9.0,8370.08,Severe,12167.97,1,11315.7,Third-Party,Major Offenses
+34089,1,0.0,1.0,0.0,49.0,4411.81,Moderate,6296.14,0,5733.47,Third-Party,Minor Offenses
+34104,1,1.0,1.0,0.0,16.0,3414.72,Severe,6348.42,0,5074.96,Comprehensive,Minor Offenses
+34100,1,0.0,1.0,0.0,,11749.94,Moderate,14992.27,0,13533.51,Comprehensive,Clean
+34110,0,1.0,1.0,0.0,46.0,776.62,Moderate,1438.79,0,1178.05,Third-Party,Major Offenses
+34113,1,1.0,1.0,0.0,39.0,13261.2,Severe,18106.45,1,16782.44,Third-Party,Minor Offenses
+34145,0,1.0,0.0,0.0,8.0,9919.6,Minor,17119.15,1,14315.98,Third-Party,Clean
+34153,1,1.0,1.0,0.0,30.0,10548.36,Moderate,13522.19,1,11138.01,Third-Party,Clean
